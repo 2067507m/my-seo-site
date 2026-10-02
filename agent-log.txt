@@ -1,0 +1,1661 @@
+[18/09/2026, 4:28:30 am] ═══════════════════════════════════
+[18/09/2026, 4:28:30 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 4:28:30 am] ═══════════════════════════════════
+[18/09/2026, 4:28:30 am] 📋 Total keywords: 111
+[18/09/2026, 4:28:30 am] ✅ Already done: 15
+[18/09/2026, 4:28:30 am] ⏳ Pending: 96
+[18/09/2026, 4:28:30 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 4:28:30 am] ⏳ [1/10] data analyst resume sample
+[18/09/2026, 4:28:33 am] ✅ Saved: data-analyst-resume-sample.md
+[18/09/2026, 4:28:36 am] ⏳ [2/10] data analyst CV format Pakistan
+[18/09/2026, 4:28:37 am] ✅ Saved: data-analyst-cv-format-pakistan.md
+[18/09/2026, 4:28:40 am] ⏳ [3/10] web developer resume sample
+[18/09/2026, 4:28:42 am] ✅ Saved: web-developer-resume-sample.md
+[18/09/2026, 4:28:45 am] ⏳ [4/10] web developer CV format
+[18/09/2026, 4:28:47 am] ✅ Saved: web-developer-cv-format.md
+[18/09/2026, 4:28:50 am] ⏳ [5/10] mobile app developer resume
+[18/09/2026, 4:28:51 am] ✅ Saved: mobile-app-developer-resume.md
+[18/09/2026, 4:28:54 am] ⏳ [6/10] full stack developer resume
+[18/09/2026, 4:28:56 am] ✅ Saved: full-stack-developer-resume.md
+[18/09/2026, 4:28:59 am] ⏳ [7/10] frontend developer resume
+[18/09/2026, 4:29:00 am] ✅ Saved: frontend-developer-resume.md
+[18/09/2026, 4:29:03 am] ⏳ [8/10] backend developer resume
+[18/09/2026, 4:29:05 am] ✅ Saved: backend-developer-resume.md
+[18/09/2026, 4:29:08 am] ⏳ [9/10] devops engineer resume
+[18/09/2026, 4:29:10 am] ✅ Saved: devops-engineer-resume.md
+[18/09/2026, 4:29:13 am] ⏳ [10/10] cloud engineer resume
+[18/09/2026, 4:29:14 am] ✅ Saved: cloud-engineer-resume.md
+[18/09/2026, 4:29:17 am] 
+📊 Generation Summary:
+[18/09/2026, 4:29:17 am]    ✅ Success: 10
+[18/09/2026, 4:29:17 am]    ❌ Failed: 0
+[18/09/2026, 4:29:17 am] 
+🔨 Building site...
+[18/09/2026, 4:29:18 am] ✅ Build complete
+[18/09/2026, 4:29:18 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 4:29:22 am] ❌ Deploy failed: Command failed: vercel --prod --yes
+[18/09/2026, 4:42:33 am] ═══════════════════════════════════
+[18/09/2026, 4:42:33 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 4:42:33 am] ═══════════════════════════════════
+[18/09/2026, 4:42:33 am] 📋 Total keywords: 111
+[18/09/2026, 4:42:33 am] ✅ Already done: 25
+[18/09/2026, 4:42:33 am] ⏳ Pending: 86
+[18/09/2026, 4:42:33 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 4:42:33 am] ⏳ [1/10] cyber security resume sample
+[18/09/2026, 4:42:35 am] ✅ Saved: cyber-security-resume-sample.md
+[18/09/2026, 4:42:38 am] ⏳ [2/10] network engineer resume
+[18/09/2026, 4:42:40 am] ✅ Saved: network-engineer-resume.md
+[18/09/2026, 4:42:43 am] ⏳ [3/10] system administrator resume
+[18/09/2026, 4:42:44 am] ✅ Saved: system-administrator-resume.md
+[18/09/2026, 4:42:47 am] ⏳ [4/10] database administrator resume
+[18/09/2026, 4:42:49 am] ✅ Saved: database-administrator-resume.md
+[18/09/2026, 4:42:52 am] ⏳ [5/10] QA engineer resume sample
+[18/09/2026, 4:42:54 am] ✅ Saved: qa-engineer-resume-sample.md
+[18/09/2026, 4:42:57 am] ⏳ [6/10] business analyst resume
+[18/09/2026, 4:42:58 am] ✅ Saved: business-analyst-resume.md
+[18/09/2026, 4:43:01 am] ⏳ [7/10] project manager resume format
+[18/09/2026, 4:43:03 am] ✅ Saved: project-manager-resume-format.md
+[18/09/2026, 4:43:06 am] ⏳ [8/10] product manager resume sample
+[18/09/2026, 4:43:07 am] ✅ Saved: product-manager-resume-sample.md
+[18/09/2026, 4:43:10 am] ⏳ [9/10] operations manager resume
+[18/09/2026, 4:43:12 am] ✅ Saved: operations-manager-resume.md
+[18/09/2026, 4:43:15 am] ⏳ [10/10] marketing manager resume
+[18/09/2026, 4:43:17 am] ✅ Saved: marketing-manager-resume.md
+[18/09/2026, 4:43:20 am] 
+📊 Generation Summary:
+[18/09/2026, 4:43:20 am]    ✅ Success: 10
+[18/09/2026, 4:43:20 am]    ❌ Failed: 0
+[18/09/2026, 4:43:20 am] 
+🔨 Building site...
+[18/09/2026, 4:43:21 am] ✅ Build complete
+[18/09/2026, 4:43:21 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 4:43:24 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vercel_vcp_2deruMitkyBuPOCFjCI1vZo863AJkED7EdxSEgWk53B
+[18/09/2026, 5:01:47 am] ═══════════════════════════════════
+[18/09/2026, 5:01:47 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 5:01:47 am] ═══════════════════════════════════
+[18/09/2026, 5:01:47 am] 📋 Total keywords: 111
+[18/09/2026, 5:01:47 am] ✅ Already done: 35
+[18/09/2026, 5:01:47 am] ⏳ Pending: 76
+[18/09/2026, 5:01:47 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 5:01:47 am] ⏳ [1/10] sales manager resume template
+[18/09/2026, 5:01:49 am] ✅ Saved: sales-manager-resume-template.md
+[18/09/2026, 5:01:52 am] ⏳ [2/10] sales executive resume sample
+[18/09/2026, 5:01:54 am] ✅ Saved: sales-executive-resume-sample.md
+[18/09/2026, 5:01:57 am] ⏳ [3/10] business development resume
+[18/09/2026, 5:01:59 am] ✅ Saved: business-development-resume.md
+[18/09/2026, 5:02:02 am] ⏳ [4/10] customer service resume sample
+[18/09/2026, 5:02:03 am] ✅ Saved: customer-service-resume-sample.md
+[18/09/2026, 5:02:06 am] ⏳ [5/10] call center resume format
+[18/09/2026, 5:02:07 am] ✅ Saved: call-center-resume-format.md
+[18/09/2026, 5:02:10 am] ⏳ [6/10] receptionist resume sample
+[18/09/2026, 5:02:12 am] ✅ Saved: receptionist-resume-sample.md
+[18/09/2026, 5:02:15 am] ⏳ [7/10] admin assistant resume
+[18/09/2026, 5:02:16 am] ✅ Saved: admin-assistant-resume.md
+[18/09/2026, 5:02:19 am] ⏳ [8/10] HR manager resume sample
+[18/09/2026, 5:02:21 am] ✅ Saved: hr-manager-resume-sample.md
+[18/09/2026, 5:02:24 am] ⏳ [9/10] HR executive resume format
+[18/09/2026, 5:02:25 am] ✅ Saved: hr-executive-resume-format.md
+[18/09/2026, 5:02:28 am] ⏳ [10/10] recruiter resume sample
+[18/09/2026, 5:02:30 am] ✅ Saved: recruiter-resume-sample.md
+[18/09/2026, 5:02:33 am] 
+📊 Generation Summary:
+[18/09/2026, 5:02:33 am]    ✅ Success: 10
+[18/09/2026, 5:02:33 am]    ❌ Failed: 0
+[18/09/2026, 5:02:33 am] 
+🔨 Building site...
+[18/09/2026, 5:02:34 am] ✅ Build complete
+[18/09/2026, 5:02:34 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 5:03:05 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vercel_2deruMitkyBuPOCFjCI1vZo863AJkED7EdxSEgWk53B
+[18/09/2026, 5:14:03 am] ═══════════════════════════════════
+[18/09/2026, 5:14:03 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 5:14:03 am] ═══════════════════════════════════
+[18/09/2026, 5:14:03 am] 📋 Total keywords: 111
+[18/09/2026, 5:14:03 am] ✅ Already done: 45
+[18/09/2026, 5:14:03 am] ⏳ Pending: 66
+[18/09/2026, 5:14:03 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 5:14:03 am] ⏳ [1/10] talent acquisition resume
+[18/09/2026, 5:14:20 am] ✅ Saved: talent-acquisition-resume.md
+[18/09/2026, 5:14:23 am] ⏳ [2/10] lecturer resume sample
+[18/09/2026, 5:14:25 am] ✅ Saved: lecturer-resume-sample.md
+[18/09/2026, 5:14:28 am] ⏳ [3/10] professor resume format
+[18/09/2026, 5:14:29 am] ✅ Saved: professor-resume-format.md
+[18/09/2026, 5:14:32 am] ⏳ [4/10] principal resume sample
+[18/09/2026, 5:14:34 am] ✅ Saved: principal-resume-sample.md
+[18/09/2026, 5:14:37 am] ⏳ [5/10] school teacher resume
+[18/09/2026, 5:14:38 am] ✅ Saved: school-teacher-resume.md
+[18/09/2026, 5:14:41 am] ⏳ [6/10] college lecturer resume
+[18/09/2026, 5:14:43 am] ✅ Saved: college-lecturer-resume.md
+[18/09/2026, 5:14:46 am] ⏳ [7/10] staff nurse resume sample
+[18/09/2026, 5:14:47 am] ✅ Saved: staff-nurse-resume-sample.md
+[18/09/2026, 5:14:50 am] ⏳ [8/10] head nurse resume format
+[18/09/2026, 5:14:52 am] ✅ Saved: head-nurse-resume-format.md
+[18/09/2026, 5:14:55 am] ⏳ [9/10] doctor CV format Pakistan
+[18/09/2026, 5:14:56 am] ✅ Saved: doctor-cv-format-pakistan.md
+[18/09/2026, 5:14:59 am] ⏳ [10/10] pharmacist resume sample
+[18/09/2026, 5:15:01 am] ✅ Saved: pharmacist-resume-sample.md
+[18/09/2026, 5:15:04 am] 
+📊 Generation Summary:
+[18/09/2026, 5:15:04 am]    ✅ Success: 10
+[18/09/2026, 5:15:04 am]    ❌ Failed: 0
+[18/09/2026, 5:15:04 am] 
+🔨 Building site...
+[18/09/2026, 5:15:05 am] ✅ Build complete
+[18/09/2026, 5:15:05 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 5:15:10 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vercel_2deruMitkyBuPOCFjCI1vZo863AJkED7EdxSEgWk53B
+[18/09/2026, 5:19:58 am] ═══════════════════════════════════
+[18/09/2026, 5:19:58 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 5:19:58 am] ═══════════════════════════════════
+[18/09/2026, 5:19:58 am] 📋 Total keywords: 111
+[18/09/2026, 5:19:58 am] ✅ Already done: 55
+[18/09/2026, 5:19:58 am] ⏳ Pending: 56
+[18/09/2026, 5:19:58 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 5:19:58 am] ⏳ [1/10] lab technician resume
+[18/09/2026, 5:20:00 am] ✅ Saved: lab-technician-resume.md
+[18/09/2026, 5:20:03 am] ⏳ [2/10] medical officer resume
+[18/09/2026, 5:20:05 am] ✅ Saved: medical-officer-resume.md
+[18/09/2026, 5:20:08 am] ⏳ [3/10] dentist resume sample
+[18/09/2026, 5:20:11 am] ✅ Saved: dentist-resume-sample.md
+[18/09/2026, 5:20:14 am] ⏳ [4/10] senior accountant resume
+[18/09/2026, 5:20:15 am] ✅ Saved: senior-accountant-resume.md
+[18/09/2026, 5:20:18 am] ⏳ [5/10] financial analyst resume
+[18/09/2026, 5:20:20 am] ✅ Saved: financial-analyst-resume.md
+[18/09/2026, 5:20:23 am] ⏳ [6/10] auditor resume format
+[18/09/2026, 5:20:25 am] ✅ Saved: auditor-resume-format.md
+[18/09/2026, 5:20:28 am] ⏳ [7/10] tax consultant resume
+[18/09/2026, 5:20:31 am] ✅ Saved: tax-consultant-resume.md
+[18/09/2026, 5:20:34 am] ⏳ [8/10] bookkeeper resume sample
+[18/09/2026, 5:20:36 am] ✅ Saved: bookkeeper-resume-sample.md
+[18/09/2026, 5:20:39 am] ⏳ [9/10] bank job resume sample
+[18/09/2026, 5:20:41 am] ✅ Saved: bank-job-resume-sample.md
+[18/09/2026, 5:20:44 am] ⏳ [10/10] bank officer resume format
+[18/09/2026, 5:20:47 am] ✅ Saved: bank-officer-resume-format.md
+[18/09/2026, 5:20:50 am] 
+📊 Generation Summary:
+[18/09/2026, 5:20:50 am]    ✅ Success: 10
+[18/09/2026, 5:20:50 am]    ❌ Failed: 0
+[18/09/2026, 5:20:50 am] 
+🔨 Building site...
+[18/09/2026, 5:20:51 am] ✅ Build complete
+[18/09/2026, 5:20:51 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 5:20:56 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vercel_2deruMitkyBuPOCFjCI1vZo863AJkED7EdxSEgWk53B
+[18/09/2026, 5:26:03 am] ═══════════════════════════════════
+[18/09/2026, 5:26:03 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 5:26:03 am] ═══════════════════════════════════
+[18/09/2026, 5:26:03 am] 📋 Total keywords: 111
+[18/09/2026, 5:26:03 am] ✅ Already done: 65
+[18/09/2026, 5:26:03 am] ⏳ Pending: 46
+[18/09/2026, 5:26:03 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 5:26:03 am] ⏳ [1/10] investment banker resume
+[18/09/2026, 5:26:06 am] ✅ Saved: investment-banker-resume.md
+[18/09/2026, 5:26:09 am] ⏳ [2/10] loan officer resume
+[18/09/2026, 5:26:15 am] ✅ Saved: loan-officer-resume.md
+[18/09/2026, 5:26:18 am] ⏳ [3/10] insurance agent resume
+[18/09/2026, 5:26:19 am] ✅ Saved: insurance-agent-resume.md
+[18/09/2026, 5:26:22 am] ⏳ [4/10] real estate agent resume
+[18/09/2026, 5:26:24 am] ✅ Saved: real-estate-agent-resume.md
+[18/09/2026, 5:26:27 am] ⏳ [5/10] property dealer resume
+[18/09/2026, 5:26:28 am] ✅ Saved: property-dealer-resume.md
+[18/09/2026, 5:26:31 am] ⏳ [6/10] UI UX designer resume
+[18/09/2026, 5:26:33 am] ✅ Saved: ui-ux-designer-resume.md
+[18/09/2026, 5:26:36 am] ⏳ [7/10] web designer resume sample
+[18/09/2026, 5:26:38 am] ✅ Saved: web-designer-resume-sample.md
+[18/09/2026, 5:26:41 am] ⏳ [8/10] motion graphics resume
+[18/09/2026, 5:26:42 am] ✅ Saved: motion-graphics-resume.md
+[18/09/2026, 5:26:45 am] ⏳ [9/10] video editor resume sample
+[18/09/2026, 5:26:47 am] ✅ Saved: video-editor-resume-sample.md
+[18/09/2026, 5:26:50 am] ⏳ [10/10] content writer resume sample
+[18/09/2026, 5:26:51 am] ✅ Saved: content-writer-resume-sample.md
+[18/09/2026, 5:26:54 am] 
+📊 Generation Summary:
+[18/09/2026, 5:26:54 am]    ✅ Success: 10
+[18/09/2026, 5:26:54 am]    ❌ Failed: 0
+[18/09/2026, 5:26:54 am] 
+🔨 Building site...
+[18/09/2026, 5:26:56 am] ✅ Build complete
+[18/09/2026, 5:26:56 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 5:26:59 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_5zQ36GMXwdmlXEMWVoZQDqx92yOawJEWLLrQHo5NakzmRvCRV4a38zv
+[18/09/2026, 5:35:05 am] ═══════════════════════════════════
+[18/09/2026, 5:35:05 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 5:35:05 am] ═══════════════════════════════════
+[18/09/2026, 5:35:05 am] 📋 Total keywords: 111
+[18/09/2026, 5:35:05 am] ✅ Already done: 75
+[18/09/2026, 5:35:05 am] ⏳ Pending: 36
+[18/09/2026, 5:35:05 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 5:35:05 am] ⏳ [1/10] copywriter resume format
+[18/09/2026, 5:35:07 am] ✅ Saved: copywriter-resume-format.md
+[18/09/2026, 5:35:10 am] ⏳ [2/10] SEO specialist resume
+[18/09/2026, 5:35:12 am] ✅ Saved: seo-specialist-resume.md
+[18/09/2026, 5:35:15 am] ⏳ [3/10] digital marketing resume sample
+[18/09/2026, 5:35:17 am] ✅ Saved: digital-marketing-resume-sample.md
+[18/09/2026, 5:35:20 am] ⏳ [4/10] social media manager resume
+[18/09/2026, 5:35:21 am] ✅ Saved: social-media-manager-resume.md
+[18/09/2026, 5:35:24 am] ⏳ [5/10] marketing executive resume
+[18/09/2026, 5:35:26 am] ✅ Saved: marketing-executive-resume.md
+[18/09/2026, 5:35:29 am] ⏳ [6/10] brand manager resume
+[18/09/2026, 5:35:30 am] ✅ Saved: brand-manager-resume.md
+[18/09/2026, 5:35:33 am] ⏳ [7/10] civil engineer resume sample
+[18/09/2026, 5:35:35 am] ✅ Saved: civil-engineer-resume-sample.md
+[18/09/2026, 5:35:38 am] ⏳ [8/10] mechanical engineer resume
+[18/09/2026, 5:35:39 am] ✅ Saved: mechanical-engineer-resume.md
+[18/09/2026, 5:35:42 am] ⏳ [9/10] electrical engineer resume
+[18/09/2026, 5:35:44 am] ✅ Saved: electrical-engineer-resume.md
+[18/09/2026, 5:35:47 am] ⏳ [10/10] electronics engineer resume
+[18/09/2026, 5:35:48 am] ✅ Saved: electronics-engineer-resume.md
+[18/09/2026, 5:35:52 am] 
+📊 Generation Summary:
+[18/09/2026, 5:35:52 am]    ✅ Success: 10
+[18/09/2026, 5:35:52 am]    ❌ Failed: 0
+[18/09/2026, 5:35:52 am] 
+🔨 Building site...
+[18/09/2026, 5:35:52 am] ✅ Build complete
+[18/09/2026, 5:35:52 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 5:36:07 am] ✅ Deploy complete
+[18/09/2026, 5:36:07 am] 🌐 Live: https://myseosite.vercel.app
+[18/09/2026, 5:36:07 am] 
+═══════════════════════════════════
+[18/09/2026, 5:36:07 am] 🎉 Agent Run Complete!
+[18/09/2026, 5:36:07 am] ═══════════════════════════════════
+
+[18/09/2026, 5:52:06 am] ═══════════════════════════════════
+[18/09/2026, 5:52:06 am] 🤖 Auto-Pilot Agent Started
+[18/09/2026, 5:52:06 am] ═══════════════════════════════════
+[18/09/2026, 5:52:06 am] 📋 Total keywords: 111
+[18/09/2026, 5:52:06 am] ✅ Already done: 85
+[18/09/2026, 5:52:06 am] ⏳ Pending: 26
+[18/09/2026, 5:52:06 am] 
+🚀 Generating 10 new pages today...
+
+[18/09/2026, 5:52:06 am] ⏳ [1/10] chemical engineer resume
+[18/09/2026, 5:52:12 am] ✅ Saved: chemical-engineer-resume.md
+[18/09/2026, 5:52:15 am] ⏳ [2/10] industrial engineer resume
+[18/09/2026, 5:52:16 am] ✅ Saved: industrial-engineer-resume.md
+[18/09/2026, 5:52:19 am] ⏳ [3/10] petroleum engineer resume
+[18/09/2026, 5:52:28 am] ✅ Saved: petroleum-engineer-resume.md
+[18/09/2026, 5:52:31 am] ⏳ [4/10] mining engineer resume
+[18/09/2026, 5:52:33 am] ✅ Saved: mining-engineer-resume.md
+[18/09/2026, 5:52:36 am] ⏳ [5/10] agricultural engineer resume
+[18/09/2026, 5:52:37 am] ✅ Saved: agricultural-engineer-resume.md
+[18/09/2026, 5:52:40 am] ⏳ [6/10] computer science graduate resume
+[18/09/2026, 5:52:41 am] ✅ Saved: computer-science-graduate-resume.md
+[18/09/2026, 5:52:44 am] ⏳ [7/10] IT support resume sample
+[18/09/2026, 5:52:48 am] ✅ Saved: it-support-resume-sample.md
+[18/09/2026, 5:52:51 am] ⏳ [8/10] IT manager resume format
+[18/09/2026, 5:52:53 am] ✅ Saved: it-manager-resume-format.md
+[18/09/2026, 5:52:56 am] ⏳ [9/10] CTO resume sample
+[18/09/2026, 5:52:57 am] ✅ Saved: cto-resume-sample.md
+[18/09/2026, 5:53:00 am] ⏳ [10/10] fresh graduate resume sample
+[18/09/2026, 5:53:02 am] ✅ Saved: fresh-graduate-resume-sample.md
+[18/09/2026, 5:53:05 am] 
+📊 Generation Summary:
+[18/09/2026, 5:53:05 am]    ✅ Success: 10
+[18/09/2026, 5:53:05 am]    ❌ Failed: 0
+[18/09/2026, 5:53:05 am] 
+🔨 Building site...
+[18/09/2026, 5:53:07 am] ✅ Build complete
+[18/09/2026, 5:53:07 am] 
+🚀 Deploying to Vercel...
+[18/09/2026, 5:53:32 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[19/09/2026, 5:11:28 am] ═══════════════════════════════════
+[19/09/2026, 5:11:28 am] 🤖 Auto-Pilot Agent Started
+[19/09/2026, 5:11:28 am] ═══════════════════════════════════
+[19/09/2026, 5:11:28 am] 📋 Total keywords: 111
+[19/09/2026, 5:11:28 am] ✅ Already done: 95
+[19/09/2026, 5:11:28 am] ⏳ Pending: 16
+[19/09/2026, 5:11:28 am] 
+🚀 Generating 10 new pages today...
+
+[19/09/2026, 5:11:28 am] ⏳ [1/10] fresher resume format Pakistan
+[19/09/2026, 5:11:30 am] ❌ Failed: fresher resume format Pakistan — Connection error.
+[19/09/2026, 5:11:40 am] ⏳ [2/10] internship resume sample
+[19/09/2026, 5:11:41 am] ❌ Failed: internship resume sample — Connection error.
+[19/09/2026, 5:11:51 am] ⏳ [3/10] entry level resume format
+[19/09/2026, 5:11:52 am] ❌ Failed: entry level resume format — Connection error.
+[19/09/2026, 5:12:02 am] ⏳ [4/10] experienced professional resume
+[19/09/2026, 5:12:04 am] ❌ Failed: experienced professional resume — Connection error.
+[19/09/2026, 5:12:14 am] ⏳ [5/10] career change resume sample
+[19/09/2026, 5:12:15 am] ❌ Failed: career change resume sample — Connection error.
+[19/09/2026, 5:12:25 am] ⏳ [6/10] executive resume format
+[19/09/2026, 5:12:27 am] ❌ Failed: executive resume format — Connection error.
+[19/09/2026, 5:12:37 am] ⏳ [7/10] CEO resume sample
+[19/09/2026, 5:12:38 am] ❌ Failed: CEO resume sample — Connection error.
+[19/09/2026, 5:12:48 am] ⏳ [8/10] director resume sample
+[19/09/2026, 5:12:49 am] ❌ Failed: director resume sample — Connection error.
+[19/09/2026, 5:12:59 am] ⏳ [9/10] consultant resume sample
+[19/09/2026, 5:13:01 am] ❌ Failed: consultant resume sample — Connection error.
+[19/09/2026, 5:13:11 am] ⏳ [10/10] freelancer resume format
+[19/09/2026, 5:13:34 am] ❌ Failed: freelancer resume format — Connection error.
+[19/09/2026, 5:13:44 am] 
+📊 Generation Summary:
+[19/09/2026, 5:13:44 am]    ✅ Success: 0
+[19/09/2026, 5:13:44 am]    ❌ Failed: 10
+[19/09/2026, 5:13:44 am] 
+🔨 Building site...
+[19/09/2026, 5:13:48 am] ✅ Build complete
+[19/09/2026, 5:13:48 am] 
+🚀 Deploying to Vercel...
+[19/09/2026, 5:14:10 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[19/09/2026, 5:21:15 am] ═══════════════════════════════════
+[19/09/2026, 5:21:15 am] 🤖 Auto-Pilot Agent Started
+[19/09/2026, 5:21:15 am] ═══════════════════════════════════
+[19/09/2026, 5:21:15 am] 📋 Total keywords: 111
+[19/09/2026, 5:21:15 am] ✅ Already done: 95
+[19/09/2026, 5:21:15 am] ⏳ Pending: 16
+[19/09/2026, 5:21:15 am] 
+🚀 Generating 10 new pages today...
+
+[19/09/2026, 5:21:15 am] ⏳ [1/10] fresher resume format Pakistan
+[19/09/2026, 5:21:18 am] ✅ Saved: fresher-resume-format-pakistan.md
+[19/09/2026, 5:21:21 am] ⏳ [2/10] internship resume sample
+[19/09/2026, 5:21:22 am] ✅ Saved: internship-resume-sample.md
+[19/09/2026, 5:21:25 am] ⏳ [3/10] entry level resume format
+[19/09/2026, 5:21:27 am] ✅ Saved: entry-level-resume-format.md
+[19/09/2026, 5:21:30 am] ⏳ [4/10] experienced professional resume
+[19/09/2026, 5:21:31 am] ✅ Saved: experienced-professional-resume.md
+[19/09/2026, 5:21:34 am] ⏳ [5/10] career change resume sample
+[19/09/2026, 5:21:36 am] ✅ Saved: career-change-resume-sample.md
+[19/09/2026, 5:21:39 am] ⏳ [6/10] executive resume format
+[19/09/2026, 5:21:40 am] ✅ Saved: executive-resume-format.md
+[19/09/2026, 5:21:43 am] ⏳ [7/10] CEO resume sample
+[19/09/2026, 5:21:44 am] ✅ Saved: ceo-resume-sample.md
+[19/09/2026, 5:21:47 am] ⏳ [8/10] director resume sample
+[19/09/2026, 5:21:49 am] ✅ Saved: director-resume-sample.md
+[19/09/2026, 5:21:52 am] ⏳ [9/10] consultant resume sample
+[19/09/2026, 5:22:16 am] ❌ Failed: consultant resume sample — Request timed out.
+[19/09/2026, 5:22:26 am] ⏳ [10/10] freelancer resume format
+[19/09/2026, 5:22:59 am] ❌ Failed: freelancer resume format — Request timed out.
+[19/09/2026, 5:23:09 am] 
+📊 Generation Summary:
+[19/09/2026, 5:23:09 am]    ✅ Success: 8
+[19/09/2026, 5:23:09 am]    ❌ Failed: 2
+[19/09/2026, 5:23:09 am] 
+🔨 Building site...
+[19/09/2026, 5:23:10 am] ✅ Build complete
+[19/09/2026, 5:23:10 am] 
+🚀 Deploying to Vercel...
+[19/09/2026, 5:23:29 am] ✅ Deploy complete
+[19/09/2026, 5:23:29 am] 🌐 Live: https://myseosite.vercel.app
+[19/09/2026, 5:23:29 am] 
+═══════════════════════════════════
+[19/09/2026, 5:23:29 am] 🎉 Agent Run Complete!
+[19/09/2026, 5:23:29 am] ═══════════════════════════════════
+
+[19/09/2026, 5:23:35 am] ═══════════════════════════════════
+[19/09/2026, 5:23:35 am] 🤖 Auto-Pilot Agent Started
+[19/09/2026, 5:23:35 am] ═══════════════════════════════════
+[19/09/2026, 5:23:35 am] 📋 Total keywords: 111
+[19/09/2026, 5:23:35 am] ✅ Already done: 103
+[19/09/2026, 5:23:35 am] ⏳ Pending: 8
+[19/09/2026, 5:23:35 am] 
+🚀 Generating 8 new pages today...
+
+[19/09/2026, 5:23:35 am] ⏳ [1/8] consultant resume sample
+[19/09/2026, 5:23:37 am] ✅ Saved: consultant-resume-sample.md
+[19/09/2026, 5:23:40 am] ⏳ [2/8] freelancer resume format
+[19/09/2026, 5:23:41 am] ✅ Saved: freelancer-resume-format.md
+[19/09/2026, 5:23:44 am] ⏳ [3/8] remote work resume sample
+[19/09/2026, 5:23:46 am] ✅ Saved: remote-work-resume-sample.md
+[19/09/2026, 5:23:49 am] ⏳ [4/8] government job CV format Pakistan
+[19/09/2026, 5:23:51 am] ✅ Saved: government-job-cv-format-pakistan.md
+[19/09/2026, 5:23:54 am] ⏳ [5/8] private sector resume format
+[19/09/2026, 5:23:56 am] ✅ Saved: private-sector-resume-format.md
+[19/09/2026, 5:23:59 am] ⏳ [6/8] NGO job resume sample
+[19/09/2026, 5:24:00 am] ✅ Saved: ngo-job-resume-sample.md
+[19/09/2026, 5:24:03 am] ⏳ [7/8] UN job resume format
+[19/09/2026, 5:24:05 am] ✅ Saved: un-job-resume-format.md
+[19/09/2026, 5:24:08 am] ⏳ [8/8] teaching job resume sample
+[19/09/2026, 5:24:10 am] ✅ Saved: teaching-job-resume-sample.md
+[19/09/2026, 5:24:13 am] 
+📊 Generation Summary:
+[19/09/2026, 5:24:13 am]    ✅ Success: 8
+[19/09/2026, 5:24:13 am]    ❌ Failed: 0
+[19/09/2026, 5:24:13 am] 
+🔨 Building site...
+[19/09/2026, 5:24:14 am] ✅ Build complete
+[19/09/2026, 5:24:14 am] 
+🚀 Deploying to Vercel...
+[19/09/2026, 5:24:35 am] ✅ Deploy complete
+[19/09/2026, 5:24:35 am] 🌐 Live: https://myseosite.vercel.app
+[19/09/2026, 5:24:35 am] 
+═══════════════════════════════════
+[19/09/2026, 5:24:35 am] 🎉 Agent Run Complete!
+[19/09/2026, 5:24:35 am] ═══════════════════════════════════
+
+[20/09/2026, 3:40:47 am] ═══════════════════════════════════
+[20/09/2026, 3:40:47 am] 🤖 Auto-Pilot Agent Started
+[20/09/2026, 3:40:47 am] ═══════════════════════════════════
+[20/09/2026, 3:40:47 am] 📋 Total keywords: 111
+[20/09/2026, 3:40:47 am] ✅ Already done: 111
+[20/09/2026, 3:40:47 am] ⏳ Pending: 0
+[20/09/2026, 3:40:47 am] 🎉 All keywords already generated!
+[20/09/2026, 9:00:47 am] ═══════════════════════════════════
+[20/09/2026, 9:00:47 am] 🤖 Auto-Pilot Agent Started
+[20/09/2026, 9:00:47 am] ═══════════════════════════════════
+[20/09/2026, 9:00:47 am] 📋 Total keywords: 213
+[20/09/2026, 9:00:47 am] ✅ Already done: 111
+[20/09/2026, 9:00:47 am] ⏳ Pending: 102
+[20/09/2026, 9:00:47 am] 
+🚀 Generating 10 new pages today...
+
+[20/09/2026, 9:00:47 am] ⏳ [1/10] content marketing resume
+[20/09/2026, 9:00:49 am] ✅ Saved: content-marketing-resume.md
+[20/09/2026, 9:00:52 am] ⏳ [2/10] email marketing resume
+[20/09/2026, 9:00:53 am] ✅ Saved: email-marketing-resume.md
+[20/09/2026, 9:00:56 am] ⏳ [3/10] affiliate marketing resume
+[20/09/2026, 9:00:58 am] ✅ Saved: affiliate-marketing-resume.md
+[20/09/2026, 9:01:01 am] ⏳ [4/10] growth hacker resume
+[20/09/2026, 9:01:04 am] ✅ Saved: growth-hacker-resume.md
+[20/09/2026, 9:01:07 am] ⏳ [5/10] product marketing resume
+[20/09/2026, 9:01:10 am] ✅ Saved: product-marketing-resume.md
+[20/09/2026, 9:01:13 am] ⏳ [6/10] creative director resume
+[20/09/2026, 9:01:15 am] ✅ Saved: creative-director-resume.md
+[20/09/2026, 9:01:18 am] ⏳ [7/10] art director resume
+[20/09/2026, 9:01:23 am] ✅ Saved: art-director-resume.md
+[20/09/2026, 9:01:26 am] ⏳ [8/10] fashion designer resume
+[20/09/2026, 9:01:28 am] ✅ Saved: fashion-designer-resume.md
+[20/09/2026, 9:01:31 am] ⏳ [9/10] interior designer resume
+[20/09/2026, 9:01:37 am] ✅ Saved: interior-designer-resume.md
+[20/09/2026, 9:01:40 am] ⏳ [10/10] graphic artist resume
+[20/09/2026, 9:01:46 am] ✅ Saved: graphic-artist-resume.md
+[20/09/2026, 9:01:49 am] 
+📊 Generation Summary:
+[20/09/2026, 9:01:49 am]    ✅ Success: 10
+[20/09/2026, 9:01:49 am]    ❌ Failed: 0
+[20/09/2026, 9:01:49 am] 
+🔨 Building site...
+[20/09/2026, 9:01:51 am] ✅ Build complete
+[20/09/2026, 9:01:51 am] 
+🚀 Deploying to Vercel...
+[20/09/2026, 9:02:10 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[20/09/2026, 9:20:00 am] ═══════════════════════════════════
+[20/09/2026, 9:20:00 am] 🤖 Auto-Pilot Agent Started
+[20/09/2026, 9:20:00 am] ═══════════════════════════════════
+[20/09/2026, 9:20:00 am] 📋 Total keywords: 213
+[20/09/2026, 9:20:00 am] ✅ Already done: 121
+[20/09/2026, 9:20:00 am] ⏳ Pending: 92
+[20/09/2026, 9:20:00 am] 
+🚀 Generating 10 new pages today...
+
+[20/09/2026, 9:20:00 am] ⏳ [1/10] illustrator resume
+[20/09/2026, 9:20:02 am] ✅ Saved: illustrator-resume.md
+[20/09/2026, 9:20:05 am] ⏳ [2/10] animator resume
+[20/09/2026, 9:20:06 am] ✅ Saved: animator-resume.md
+[20/09/2026, 9:20:09 am] ⏳ [3/10] 3D artist resume
+[20/09/2026, 9:20:11 am] ✅ Saved: 3d-artist-resume.md
+[20/09/2026, 9:20:14 am] ⏳ [4/10] VFX artist resume
+[20/09/2026, 9:20:16 am] ✅ Saved: vfx-artist-resume.md
+[20/09/2026, 9:20:19 am] ⏳ [5/10] game developer resume
+[20/09/2026, 9:20:20 am] ✅ Saved: game-developer-resume.md
+[20/09/2026, 9:20:23 am] ⏳ [6/10] unity developer resume
+[20/09/2026, 9:20:25 am] ✅ Saved: unity-developer-resume.md
+[20/09/2026, 9:20:28 am] ⏳ [7/10] android developer resume
+[20/09/2026, 9:20:29 am] ✅ Saved: android-developer-resume.md
+[20/09/2026, 9:20:32 am] ⏳ [8/10] ios developer resume
+[20/09/2026, 9:20:34 am] ✅ Saved: ios-developer-resume.md
+[20/09/2026, 9:20:37 am] ⏳ [9/10] react native developer resume
+[20/09/2026, 9:20:38 am] ✅ Saved: react-native-developer-resume.md
+[20/09/2026, 9:20:41 am] ⏳ [10/10] flutter developer resume
+[20/09/2026, 9:20:43 am] ✅ Saved: flutter-developer-resume.md
+[20/09/2026, 9:20:46 am] 
+📊 Generation Summary:
+[20/09/2026, 9:20:46 am]    ✅ Success: 10
+[20/09/2026, 9:20:46 am]    ❌ Failed: 0
+[20/09/2026, 9:20:46 am] 
+🔨 Building site...
+[20/09/2026, 9:20:47 am] ✅ Build complete
+[20/09/2026, 9:20:47 am] 
+🚀 Deploying to Vercel...
+[20/09/2026, 9:20:59 am] ✅ Deploy complete
+[20/09/2026, 9:20:59 am] 🌐 Live: https://myseosite.vercel.app
+[20/09/2026, 9:20:59 am] 
+═══════════════════════════════════
+[20/09/2026, 9:20:59 am] 🎉 Agent Run Complete!
+[20/09/2026, 9:20:59 am] ═══════════════════════════════════
+
+[21/09/2026, 8:18:08 am] ═══════════════════════════════════
+[21/09/2026, 8:18:08 am] 🤖 Auto-Pilot Agent Started
+[21/09/2026, 8:18:08 am] ═══════════════════════════════════
+[21/09/2026, 8:18:08 am] 📋 Total keywords: 213
+[21/09/2026, 8:18:08 am] ✅ Already done: 131
+[21/09/2026, 8:18:08 am] ⏳ Pending: 82
+[21/09/2026, 8:18:08 am] 
+🚀 Generating 10 new pages today...
+
+[21/09/2026, 8:18:08 am] ⏳ [1/10] python developer resume
+[21/09/2026, 8:18:24 am] ✅ Saved: python-developer-resume.md
+[21/09/2026, 8:18:27 am] ⏳ [2/10] java developer resume
+[21/09/2026, 8:18:29 am] ✅ Saved: java-developer-resume.md
+[21/09/2026, 8:18:32 am] ⏳ [3/10] node js developer resume
+[21/09/2026, 8:18:33 am] ✅ Saved: node-js-developer-resume.md
+[21/09/2026, 8:18:36 am] ⏳ [4/10] php developer resume
+[21/09/2026, 8:18:41 am] ✅ Saved: php-developer-resume.md
+                                                                                                                             [21/09/2026, 8:34:53 am] ═══════════════════════════════════
+[21/09/2026, 8:34:53 am] 🤖 Auto-Pilot Agent Started
+[21/09/2026, 8:34:53 am] ═══════════════════════════════════
+[21/09/2026, 8:34:53 am] 📋 Total keywords: 213
+[21/09/2026, 8:34:53 am] ✅ Already done: 136
+[21/09/2026, 8:34:53 am] ⏳ Pending: 77
+[21/09/2026, 8:34:53 am] 
+🚀 Generating 10 new pages today...
+
+[21/09/2026, 8:34:53 am] ⏳ [1/10] wordpress developer resume
+[21/09/2026, 8:35:26 am] ✅ Saved: wordpress-developer-resume.md
+[21/09/2026, 8:35:29 am] ⏳ [2/10] shopify developer resume
+[21/09/2026, 8:35:30 am] ✅ Saved: shopify-developer-resume.md
+[21/09/2026, 8:35:33 am] ⏳ [3/10] data scientist resume
+[21/09/2026, 8:35:35 am] ✅ Saved: data-scientist-resume.md
+[21/09/2026, 8:35:38 am] ⏳ [4/10] machine learning engineer resume
+[21/09/2026, 8:35:42 am] ✅ Saved: machine-learning-engineer-resume.md
+[21/09/2026, 8:35:45 am] ⏳ [5/10] AI engineer resume
+[21/09/2026, 8:35:53 am] ✅ Saved: ai-engineer-resume.md
+[21/09/2026, 8:35:56 am] ⏳ [6/10] deep learning engineer resume
+[21/09/2026, 8:36:08 am] ✅ Saved: deep-learning-engineer-resume.md
+[21/09/2026, 8:36:11 am] ⏳ [7/10] NLP engineer resume
+[21/09/2026, 8:36:13 am] ✅ Saved: nlp-engineer-resume.md
+[21/09/2026, 8:36:16 am] ⏳ [8/10] blockchain developer resume
+[21/09/2026, 8:36:48 am] ✅ Saved: blockchain-developer-resume.md
+[21/09/2026, 8:36:51 am] ⏳ [9/10] smart contract developer resume
+[21/09/2026, 8:37:07 am] ✅ Saved: smart-contract-developer-resume.md
+[21/09/2026, 8:37:10 am] ⏳ [10/10] solidity developer resume
+[21/09/2026, 8:37:25 am] ✅ Saved: solidity-developer-resume.md
+[21/09/2026, 8:37:28 am] 
+📊 Generation Summary:
+[21/09/2026, 8:37:28 am]    ✅ Success: 10
+[21/09/2026, 8:37:28 am]    ❌ Failed: 0
+[21/09/2026, 8:37:28 am] 
+🔨 Building site...
+[21/09/2026, 8:37:30 am] ✅ Build complete
+[21/09/2026, 8:37:30 am] 
+🚀 Deploying to Vercel...
+[21/09/2026, 8:38:35 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[21/09/2026, 8:39:20 am] ═══════════════════════════════════
+[21/09/2026, 8:39:20 am] 🤖 Auto-Pilot Agent Started
+[21/09/2026, 8:39:20 am] ═══════════════════════════════════
+[21/09/2026, 8:39:20 am] 📋 Total keywords: 213
+[21/09/2026, 8:39:20 am] ✅ Already done: 146
+[21/09/2026, 8:39:20 am] ⏳ Pending: 67
+[21/09/2026, 8:39:20 am] 
+🚀 Generating 10 new pages today...
+
+[21/09/2026, 8:39:20 am] ⏳ [1/10] AWS engineer resume
+[21/09/2026, 8:39:21 am] ❌ Failed: AWS engineer resume — Connection error.
+[21/09/2026, 8:39:31 am] ⏳ [2/10] Azure engineer resume
+[21/09/2026, 8:39:34 am] ❌ Failed: Azure engineer resume — Connection error.
+[21/09/2026, 8:39:44 am] ⏳ [3/10] GCP engineer resume
+[21/09/2026, 8:39:46 am] ❌ Failed: GCP engineer resume — Connection error.
+[21/09/2026, 8:39:56 am] ⏳ [4/10] kubernetes engineer resume
+[21/09/2026, 8:40:19 am] ❌ Failed: kubernetes engineer resume — Request timed out.
+[21/09/2026, 8:40:29 am] ⏳ [5/10] docker engineer resume
+[21/09/2026, 8:40:30 am] ❌ Failed: docker engineer resume — Connection error.
+[21/09/2026, 8:40:40 am] ⏳ [6/10] site reliability engineer resume
+[21/09/2026, 8:41:04 am] ❌ Failed: site reliability engineer resume — Request timed out.
+[21/09/2026, 8:41:14 am] ⏳ [7/10] platform engineer resume
+[21/09/2026, 8:41:47 am] ❌ Failed: platform engineer resume — Request timed out.
+[21/09/2026, 8:41:57 am] ⏳ [8/10] security analyst resume
+[21/09/2026, 8:42:28 am] ❌ Failed: security analyst resume — Connection error.
+[21/09/2026, 8:42:38 am] ⏳ [9/10] penetration tester resume
+[21/09/2026, 8:43:11 am] ❌ Failed: penetration tester resume — Request timed out.
+[21/09/2026, 8:43:21 am] ⏳ [10/10] ethical hacker resume
+[21/09/2026, 8:43:23 am] ❌ Failed: ethical hacker resume — Connection error.
+[21/09/2026, 8:43:33 am] 
+📊 Generation Summary:
+[21/09/2026, 8:43:33 am]    ✅ Success: 0
+[21/09/2026, 8:43:33 am]    ❌ Failed: 10
+[21/09/2026, 8:43:33 am] 
+🔨 Building site...
+[21/09/2026, 8:43:35 am] ✅ Build complete
+[21/09/2026, 8:43:35 am] 
+🚀 Deploying to Vercel...
+[21/09/2026, 8:43:59 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[21/09/2026, 8:44:57 am] ═══════════════════════════════════
+[21/09/2026, 8:44:57 am] 🤖 Auto-Pilot Agent Started
+[21/09/2026, 8:44:57 am] ═══════════════════════════════════
+[21/09/2026, 8:44:57 am] 📋 Total keywords: 213
+[21/09/2026, 8:44:57 am] ✅ Already done: 146
+[21/09/2026, 8:44:57 am] ⏳ Pending: 67
+[21/09/2026, 8:44:57 am] 
+🚀 Generating 10 new pages today...
+
+[21/09/2026, 8:44:57 am] ⏳ [1/10] AWS engineer resume
+[21/09/2026, 8:44:59 am] ✅ Saved: aws-engineer-resume.md
+[21/09/2026, 8:45:02 am] ⏳ [2/10] Azure engineer resume
+[21/09/2026, 8:45:03 am] ✅ Saved: azure-engineer-resume.md
+[21/09/2026, 8:45:06 am] ⏳ [3/10] GCP engineer resume
+[21/09/2026, 8:45:08 am] ✅ Saved: gcp-engineer-resume.md
+[21/09/2026, 8:45:11 am] ⏳ [4/10] kubernetes engineer resume
+[21/09/2026, 8:45:13 am] ✅ Saved: kubernetes-engineer-resume.md
+[21/09/2026, 8:45:16 am] ⏳ [5/10] docker engineer resume
+[21/09/2026, 8:45:17 am] ✅ Saved: docker-engineer-resume.md
+[21/09/2026, 8:45:20 am] ⏳ [6/10] site reliability engineer resume
+[21/09/2026, 8:45:22 am] ✅ Saved: site-reliability-engineer-resume.md
+[21/09/2026, 8:45:25 am] ⏳ [7/10] platform engineer resume
+[21/09/2026, 8:45:26 am] ✅ Saved: platform-engineer-resume.md
+[21/09/2026, 8:45:29 am] ⏳ [8/10] security analyst resume
+[21/09/2026, 8:45:31 am] ✅ Saved: security-analyst-resume.md
+[21/09/2026, 8:45:34 am] ⏳ [9/10] penetration tester resume
+[21/09/2026, 8:45:35 am] ✅ Saved: penetration-tester-resume.md
+[21/09/2026, 8:45:38 am] ⏳ [10/10] ethical hacker resume
+[21/09/2026, 8:45:41 am] ✅ Saved: ethical-hacker-resume.md
+[21/09/2026, 8:45:44 am] 
+📊 Generation Summary:
+[21/09/2026, 8:45:44 am]    ✅ Success: 10
+[21/09/2026, 8:45:44 am]    ❌ Failed: 0
+[21/09/2026, 8:45:44 am] 
+🔨 Building site...
+[21/09/2026, 8:45:46 am] ✅ Build complete
+[21/09/2026, 8:45:46 am] 
+🚀 Deploying to Vercel...
+[21/09/2026, 8:46:03 am] ✅ Deploy complete
+[21/09/2026, 8:46:03 am] 🌐 Live: https://myseosite.vercel.app
+[21/09/2026, 8:46:03 am] 
+═══════════════════════════════════
+[21/09/2026, 8:46:03 am] 🎉 Agent Run Complete!
+[21/09/2026, 8:46:03 am] ═══════════════════════════════════
+
+[22/09/2026, 3:06:00 am] ═══════════════════════════════════
+[22/09/2026, 3:06:00 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 3:06:00 am] ═══════════════════════════════════
+[22/09/2026, 3:06:00 am] 📋 Total keywords: 213
+[22/09/2026, 3:06:00 am] ✅ Already done: 156
+[22/09/2026, 3:06:00 am] ⏳ Pending: 57
+[22/09/2026, 3:06:00 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 3:06:00 am] ⏳ [1/10] soc analyst resume
+[22/09/2026, 3:06:23 am] ❌ Failed: soc analyst resume — Request timed out.
+[22/09/2026, 3:06:33 am] ⏳ [2/10] IT auditor resume
+[22/09/2026, 3:06:34 am] ❌ Failed: IT auditor resume — Connection error.
+[22/09/2026, 3:06:44 am] ⏳ [3/10] business intelligence analyst resume
+[22/09/2026, 3:06:53 am] ✅ Saved: business-intelligence-analyst-resume.md
+[22/09/2026, 3:06:56 am] ⏳ [4/10] data engineer resume
+[22/09/2026, 3:06:58 am] ✅ Saved: data-engineer-resume.md
+[22/09/2026, 3:07:01 am] ⏳ [5/10] ETL developer resume
+[22/09/2026, 3:07:55 am] ❌ Failed: ETL developer resume — Request timed out.
+[22/09/2026, 3:08:05 am] ⏳ [6/10] database developer resume
+[22/09/2026, 3:08:29 am] ❌ Failed: database developer resume — Connection error.
+[22/09/2026, 3:08:39 am] ⏳ [7/10] SQL developer resume
+[22/09/2026, 3:08:51 am] ❌ Failed: SQL developer resume — Connection error.
+[22/09/2026, 3:09:01 am] ⏳ [8/10] salesforce developer resume
+[22/09/2026, 3:09:02 am] ❌ Failed: salesforce developer resume — Connection error.
+[22/09/2026, 3:09:12 am] ⏳ [9/10] servicenow developer resume
+[22/09/2026, 3:09:15 am] ✅ Saved: servicenow-developer-resume.md
+[22/09/2026, 3:09:18 am] ⏳ [10/10] sap consultant resume
+[22/09/2026, 3:09:20 am] ✅ Saved: sap-consultant-resume.md
+[22/09/2026, 3:09:23 am] 
+📊 Generation Summary:
+[22/09/2026, 3:09:23 am]    ✅ Success: 4
+[22/09/2026, 3:09:23 am]    ❌ Failed: 6
+[22/09/2026, 3:09:23 am] 
+🔨 Building site...
+[22/09/2026, 3:09:25 am] ✅ Build complete
+[22/09/2026, 3:09:25 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 3:09:28 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[22/09/2026, 3:09:42 am] ═══════════════════════════════════
+[22/09/2026, 3:09:42 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 3:09:42 am] ═══════════════════════════════════
+[22/09/2026, 3:09:42 am] 📋 Total keywords: 213
+[22/09/2026, 3:09:42 am] ✅ Already done: 160
+[22/09/2026, 3:09:42 am] ⏳ Pending: 53
+[22/09/2026, 3:09:42 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 3:09:42 am] ⏳ [1/10] soc analyst resume
+[22/09/2026, 3:09:44 am] ✅ Saved: soc-analyst-resume.md
+[22/09/2026, 3:09:47 am] ⏳ [2/10] IT auditor resume
+[22/09/2026, 3:09:48 am] ✅ Saved: it-auditor-resume.md
+[22/09/2026, 3:09:51 am] ⏳ [3/10] ETL developer resume
+[22/09/2026, 3:09:53 am] ✅ Saved: etl-developer-resume.md
+[22/09/2026, 3:09:56 am] ⏳ [4/10] database developer resume
+[22/09/2026, 3:09:57 am] ✅ Saved: database-developer-resume.md
+[22/09/2026, 3:10:00 am] ⏳ [5/10] SQL developer resume
+[22/09/2026, 3:10:02 am] ✅ Saved: sql-developer-resume.md
+[22/09/2026, 3:10:05 am] ⏳ [6/10] salesforce developer resume
+[22/09/2026, 3:10:07 am] ✅ Saved: salesforce-developer-resume.md
+[22/09/2026, 3:10:10 am] ⏳ [7/10] oracle developer resume
+[22/09/2026, 3:10:11 am] ✅ Saved: oracle-developer-resume.md
+[22/09/2026, 3:10:14 am] ⏳ [8/10] ecommerce manager resume
+[22/09/2026, 3:10:16 am] ✅ Saved: ecommerce-manager-resume.md
+[22/09/2026, 3:10:19 am] ⏳ [9/10] shopify store manager resume
+[22/09/2026, 3:10:20 am] ✅ Saved: shopify-store-manager-resume.md
+[22/09/2026, 3:10:23 am] ⏳ [10/10] dropshipping resume
+[22/09/2026, 3:10:25 am] ✅ Saved: dropshipping-resume.md
+[22/09/2026, 3:10:28 am] 
+📊 Generation Summary:
+[22/09/2026, 3:10:28 am]    ✅ Success: 10
+[22/09/2026, 3:10:28 am]    ❌ Failed: 0
+[22/09/2026, 3:10:28 am] 
+🔨 Building site...
+[22/09/2026, 3:10:30 am] ✅ Build complete
+[22/09/2026, 3:10:30 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 3:10:32 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[22/09/2026, 3:11:44 am] ═══════════════════════════════════
+[22/09/2026, 3:11:44 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 3:11:44 am] ═══════════════════════════════════
+[22/09/2026, 3:11:44 am] 📋 Total keywords: 213
+[22/09/2026, 3:11:44 am] ✅ Already done: 170
+[22/09/2026, 3:11:44 am] ⏳ Pending: 43
+[22/09/2026, 3:11:44 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 3:11:44 am] ⏳ [1/10] product owner resume
+[22/09/2026, 3:11:46 am] ✅ Saved: product-owner-resume.md
+[22/09/2026, 3:11:49 am] ⏳ [2/10] scrum master resume
+[22/09/2026, 3:11:50 am] ✅ Saved: scrum-master-resume.md
+[22/09/2026, 3:11:53 am] ⏳ [3/10] agile coach resume
+[22/09/2026, 3:11:55 am] ✅ Saved: agile-coach-resume.md
+[22/09/2026, 3:11:58 am] ⏳ [4/10] business consultant resume
+[22/09/2026, 3:11:59 am] ✅ Saved: business-consultant-resume.md
+[22/09/2026, 3:12:02 am] ⏳ [5/10] management consultant resume
+[22/09/2026, 3:12:04 am] ✅ Saved: management-consultant-resume.md
+[22/09/2026, 3:12:07 am] ⏳ [6/10] strategy consultant resume
+[22/09/2026, 3:12:08 am] ✅ Saved: strategy-consultant-resume.md
+[22/09/2026, 3:12:11 am] ⏳ [7/10] financial consultant resume
+[22/09/2026, 3:12:13 am] ✅ Saved: financial-consultant-resume.md
+[22/09/2026, 3:12:16 am] ⏳ [8/10] investment advisor resume
+[22/09/2026, 3:12:18 am] ✅ Saved: investment-advisor-resume.md
+[22/09/2026, 3:12:21 am] ⏳ [9/10] wealth manager resume
+[22/09/2026, 3:12:24 am] ✅ Saved: wealth-manager-resume.md
+[22/09/2026, 3:12:28 am] ⏳ [10/10] portfolio manager resume
+[22/09/2026, 3:12:30 am] ✅ Saved: portfolio-manager-resume.md
+[22/09/2026, 3:12:33 am] 
+📊 Generation Summary:
+[22/09/2026, 3:12:33 am]    ✅ Success: 10
+[22/09/2026, 3:12:33 am]    ❌ Failed: 0
+[22/09/2026, 3:12:33 am] 
+🔨 Building site...
+[22/09/2026, 3:12:35 am] ✅ Build complete
+[22/09/2026, 3:12:35 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 3:12:38 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[22/09/2026, 5:51:33 am] ═══════════════════════════════════
+[22/09/2026, 5:51:33 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 5:51:33 am] ═══════════════════════════════════
+[22/09/2026, 5:51:33 am] 📋 Total keywords: 213
+[22/09/2026, 5:51:33 am] ✅ Already done: 180
+[22/09/2026, 5:51:33 am] ⏳ Pending: 33
+[22/09/2026, 5:51:33 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 5:51:33 am] ⏳ [1/10] risk analyst resume
+[22/09/2026, 5:51:35 am] ✅ Saved: risk-analyst-resume.md
+[22/09/2026, 5:51:38 am] ⏳ [2/10] credit analyst resume
+[22/09/2026, 5:51:40 am] ✅ Saved: credit-analyst-resume.md
+[22/09/2026, 5:51:43 am] ⏳ [3/10] loan processor resume
+[22/09/2026, 5:51:44 am] ✅ Saved: loan-processor-resume.md
+[22/09/2026, 5:51:47 am] ⏳ [4/10] mortgage broker resume
+[22/09/2026, 5:51:49 am] ✅ Saved: mortgage-broker-resume.md
+[22/09/2026, 5:51:52 am] ⏳ [5/10] insurance broker resume
+[22/09/2026, 5:51:54 am] ✅ Saved: insurance-broker-resume.md
+[22/09/2026, 5:51:57 am] ⏳ [6/10] underwriter resume
+[22/09/2026, 5:51:58 am] ✅ Saved: underwriter-resume.md
+[22/09/2026, 5:52:01 am] ⏳ [7/10] claims adjuster resume
+[22/09/2026, 5:52:03 am] ✅ Saved: claims-adjuster-resume.md
+[22/09/2026, 5:52:06 am] ⏳ [8/10] actuary resume
+[22/09/2026, 5:52:07 am] ✅ Saved: actuary-resume.md
+[22/09/2026, 5:52:10 am] ⏳ [9/10] financial planner resume
+[22/09/2026, 5:52:52 am] ❌ Failed: financial planner resume — Request timed out.
+[22/09/2026, 5:53:02 am] ⏳ [10/10] chartered accountant resume
+[22/09/2026, 5:53:36 am] ❌ Failed: chartered accountant resume — Request timed out.
+[22/09/2026, 5:53:46 am] 
+📊 Generation Summary:
+[22/09/2026, 5:53:46 am]    ✅ Success: 8
+[22/09/2026, 5:53:46 am]    ❌ Failed: 2
+[22/09/2026, 5:53:46 am] 
+🔨 Building site...
+[22/09/2026, 5:53:48 am] ✅ Build complete
+[22/09/2026, 5:53:48 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 5:54:07 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[22/09/2026, 5:54:15 am] ═══════════════════════════════════
+[22/09/2026, 5:54:15 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 5:54:15 am] ═══════════════════════════════════
+[22/09/2026, 5:54:15 am] 📋 Total keywords: 213
+[22/09/2026, 5:54:16 am] ✅ Already done: 188
+[22/09/2026, 5:54:16 am] ⏳ Pending: 25
+[22/09/2026, 5:54:16 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 5:54:16 am] ⏳ [1/10] financial planner resume
+[22/09/2026, 5:54:17 am] ✅ Saved: financial-planner-resume.md
+[22/09/2026, 5:54:21 am] ⏳ [2/10] chartered accountant resume
+[22/09/2026, 5:54:22 am] ✅ Saved: chartered-accountant-resume.md
+[22/09/2026, 5:54:25 am] ⏳ [3/10] CPA resume
+[22/09/2026, 5:54:26 am] ✅ Saved: cpa-resume.md
+[22/09/2026, 5:54:29 am] ⏳ [4/10] CFA resume
+[22/09/2026, 5:54:31 am] ✅ Saved: cfa-resume.md
+[22/09/2026, 5:54:34 am] ⏳ [5/10] ACCA resume
+[22/09/2026, 5:54:39 am] ✅ Saved: acca-resume.md
+[22/09/2026, 5:54:42 am] ⏳ [6/10] audit assistant resume
+[22/09/2026, 5:54:44 am] ✅ Saved: audit-assistant-resume.md
+[22/09/2026, 5:54:47 am] ⏳ [7/10] tax accountant resume
+[22/09/2026, 5:54:49 am] ✅ Saved: tax-accountant-resume.md
+[22/09/2026, 5:54:52 am] ⏳ [8/10] payroll specialist resume
+[22/09/2026, 5:54:53 am] ✅ Saved: payroll-specialist-resume.md
+[22/09/2026, 5:54:56 am] ⏳ [9/10] billing specialist resume
+[22/09/2026, 5:54:58 am] ✅ Saved: billing-specialist-resume.md
+[22/09/2026, 5:55:01 am] ⏳ [10/10] accounts payable resume
+[22/09/2026, 5:55:03 am] ✅ Saved: accounts-payable-resume.md
+[22/09/2026, 5:55:06 am] 
+📊 Generation Summary:
+[22/09/2026, 5:55:06 am]    ✅ Success: 10
+[22/09/2026, 5:55:06 am]    ❌ Failed: 0
+[22/09/2026, 5:55:06 am] 
+🔨 Building site...
+[22/09/2026, 5:55:08 am] ✅ Build complete
+[22/09/2026, 5:55:08 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 5:55:12 am] ❌ Deploy failed: Command failed: vercel --prod --yes --token=vcp_24iSHmuTmlF6Av3QMiYgKP4IUIfSl2ZIr6ei5B52wAuE7mcUjp0WmRTs
+[22/09/2026, 6:06:30 am] ═══════════════════════════════════
+[22/09/2026, 6:06:30 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 6:06:30 am] ═══════════════════════════════════
+[22/09/2026, 6:06:30 am] 📋 Total keywords: 213
+[22/09/2026, 6:06:30 am] ✅ Already done: 198
+[22/09/2026, 6:06:30 am] ⏳ Pending: 15
+[22/09/2026, 6:06:30 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 6:06:30 am] ⏳ [1/10] accounts receivable resume
+[22/09/2026, 6:06:32 am] ✅ Saved: accounts-receivable-resume.md
+[22/09/2026, 6:06:35 am] ⏳ [2/10] supply chain manager resume
+[22/09/2026, 6:06:37 am] ✅ Saved: supply-chain-manager-resume.md
+[22/09/2026, 6:06:40 am] ⏳ [3/10] logistics manager resume
+[22/09/2026, 6:06:41 am] ✅ Saved: logistics-manager-resume.md
+[22/09/2026, 6:06:44 am] ⏳ [4/10] procurement officer resume
+[22/09/2026, 6:06:47 am] ✅ Saved: procurement-officer-resume.md
+[22/09/2026, 6:06:50 am] ⏳ [5/10] warehouse manager resume
+[22/09/2026, 6:06:51 am] ✅ Saved: warehouse-manager-resume.md
+[22/09/2026, 6:06:54 am] ⏳ [6/10] operations executive resume
+[22/09/2026, 6:06:56 am] ✅ Saved: operations-executive-resume.md
+[22/09/2026, 6:06:59 am] ⏳ [7/10] production manager resume
+[22/09/2026, 6:07:01 am] ✅ Saved: production-manager-resume.md
+[22/09/2026, 6:07:04 am] ⏳ [8/10] quality assurance manager resume
+[22/09/2026, 6:07:05 am] ✅ Saved: quality-assurance-manager-resume.md
+[22/09/2026, 6:07:08 am] ⏳ [9/10] safety officer resume
+[22/09/2026, 6:07:10 am] ✅ Saved: safety-officer-resume.md
+[22/09/2026, 6:07:13 am] ⏳ [10/10] HSE officer resume
+[22/09/2026, 6:07:15 am] ✅ Saved: hse-officer-resume.md
+[22/09/2026, 6:07:18 am] 
+📊 Generation Summary:
+[22/09/2026, 6:07:18 am]    ✅ Success: 10
+[22/09/2026, 6:07:18 am]    ❌ Failed: 0
+[22/09/2026, 6:07:18 am] 
+🔨 Building site...
+[22/09/2026, 6:07:21 am] ✅ Build complete
+[22/09/2026, 6:07:21 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 6:07:36 am] ✅ Deploy complete
+[22/09/2026, 6:07:36 am] 🌐 Live: https://myseosite.vercel.app
+[22/09/2026, 6:07:36 am] 
+═══════════════════════════════════
+[22/09/2026, 6:07:36 am] 🎉 Agent Run Complete!
+[22/09/2026, 6:07:36 am] ═══════════════════════════════════
+
+[22/09/2026, 9:43:38 am] ═══════════════════════════════════
+[22/09/2026, 9:43:38 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 9:43:38 am] ═══════════════════════════════════
+[22/09/2026, 9:43:38 am] 📋 Total keywords: 315
+[22/09/2026, 9:43:38 am] ✅ Already done: 208
+[22/09/2026, 9:43:38 am] ⏳ Pending: 107
+[22/09/2026, 9:43:38 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 9:43:38 am] ⏳ [1/10] construction manager resume
+[22/09/2026, 9:43:42 am] ✅ Saved: construction-manager-resume.md
+[22/09/2026, 9:43:45 am] ⏳ [2/10] site engineer resume
+[22/09/2026, 9:43:47 am] ✅ Saved: site-engineer-resume.md
+[22/09/2026, 9:43:50 am] ⏳ [3/10] quantity surveyor resume
+[22/09/2026, 9:43:52 am] ✅ Saved: quantity-surveyor-resume.md
+[22/09/2026, 9:43:55 am] ⏳ [4/10] architect resume sample
+[22/09/2026, 9:43:57 am] ✅ Saved: architect-resume-sample.md
+[22/09/2026, 9:44:00 am] ⏳ [5/10] urban planner resume
+[22/09/2026, 9:44:01 am] ✅ Saved: urban-planner-resume.md
+[22/09/2026, 9:44:04 am] ⏳ [6/10] resume format for freshers
+[22/09/2026, 9:44:07 am] ✅ Saved: resume-format-for-freshers.md
+[22/09/2026, 9:44:10 am] ⏳ [7/10] resume format for experienced
+[22/09/2026, 9:44:11 am] ✅ Saved: resume-format-for-experienced.md
+[22/09/2026, 9:44:14 am] ⏳ [8/10] resume format for engineers
+[22/09/2026, 9:44:16 am] ✅ Saved: resume-format-for-engineers.md
+[22/09/2026, 9:44:19 am] ⏳ [9/10] resume format for doctors
+[22/09/2026, 9:44:22 am] ✅ Saved: resume-format-for-doctors.md
+[22/09/2026, 9:44:25 am] ⏳ [10/10] resume format for teachers
+[22/09/2026, 9:44:26 am] ✅ Saved: resume-format-for-teachers.md
+[22/09/2026, 9:44:29 am] 
+📊 Generation Summary:
+[22/09/2026, 9:44:29 am]    ✅ Success: 10
+[22/09/2026, 9:44:29 am]    ❌ Failed: 0
+[22/09/2026, 9:44:29 am] 
+🔨 Building site...
+[22/09/2026, 9:44:32 am] ✅ Build complete
+[22/09/2026, 9:44:32 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 9:45:23 am] ✅ Deploy complete
+[22/09/2026, 9:45:23 am] 🌐 Live: https://myseosite.vercel.app
+[22/09/2026, 9:45:23 am] 
+═══════════════════════════════════
+[22/09/2026, 9:45:23 am] 🎉 Agent Run Complete!
+[22/09/2026, 9:45:23 am] ═══════════════════════════════════
+
+[22/09/2026, 10:03:20 am] ═══════════════════════════════════
+[22/09/2026, 10:03:20 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 10:03:20 am] ═══════════════════════════════════
+[22/09/2026, 10:03:20 am] 📋 Total keywords: 315
+[22/09/2026, 10:03:20 am] ✅ Already done: 218
+[22/09/2026, 10:03:20 am] ⏳ Pending: 97
+[22/09/2026, 10:03:20 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 10:03:20 am] ⏳ [1/10] resume format for accountants
+[22/09/2026, 10:03:22 am] ✅ Saved: resume-format-for-accountants.md
+[22/09/2026, 10:03:25 am] ⏳ [2/10] resume format for lawyers
+[22/09/2026, 10:03:27 am] ✅ Saved: resume-format-for-lawyers.md
+[22/09/2026, 10:03:30 am] ⏳ [3/10] resume format for nurses
+[22/09/2026, 10:03:31 am] ✅ Saved: resume-format-for-nurses.md
+[22/09/2026, 10:03:34 am] ⏳ [4/10] resume format for managers
+[22/09/2026, 10:03:36 am] ✅ Saved: resume-format-for-managers.md
+[22/09/2026, 10:03:39 am] ⏳ [5/10] resume format for executives
+[22/09/2026, 10:03:41 am] ✅ Saved: resume-format-for-executives.md
+[22/09/2026, 10:03:44 am] ⏳ [6/10] CV format for students
+[22/09/2026, 10:03:45 am] ✅ Saved: cv-format-for-students.md
+[22/09/2026, 10:03:48 am] ⏳ [7/10] CV format for graduates
+[22/09/2026, 10:03:51 am] ✅ Saved: cv-format-for-graduates.md
+[22/09/2026, 10:03:54 am] ⏳ [8/10] CV format for professionals
+[22/09/2026, 10:03:55 am] ✅ Saved: cv-format-for-professionals.md
+[22/09/2026, 10:03:58 am] ⏳ [9/10] CV format for interns
+[22/09/2026, 10:04:00 am] ✅ Saved: cv-format-for-interns.md
+[22/09/2026, 10:04:03 am] ⏳ [10/10] CV format for managers
+[22/09/2026, 10:04:04 am] ✅ Saved: cv-format-for-managers.md
+[22/09/2026, 10:04:07 am] 
+📊 Generation Summary:
+[22/09/2026, 10:04:07 am]    ✅ Success: 10
+[22/09/2026, 10:04:07 am]    ❌ Failed: 0
+[22/09/2026, 10:04:07 am] 
+🔨 Building site...
+[22/09/2026, 10:04:10 am] ✅ Build complete
+[22/09/2026, 10:04:10 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 10:04:48 am] ✅ Deploy complete
+[22/09/2026, 10:04:48 am] 🌐 Live: https://myseosite.vercel.app
+[22/09/2026, 10:04:48 am] 
+═══════════════════════════════════
+[22/09/2026, 10:04:48 am] 🎉 Agent Run Complete!
+[22/09/2026, 10:04:48 am] ═══════════════════════════════════
+
+[22/09/2026, 10:21:56 am] ═══════════════════════════════════
+[22/09/2026, 10:21:56 am] 🤖 Auto-Pilot Agent Started
+[22/09/2026, 10:21:56 am] ═══════════════════════════════════
+[22/09/2026, 10:21:56 am] 📋 Total keywords: 315
+[22/09/2026, 10:21:56 am] ✅ Already done: 228
+[22/09/2026, 10:21:56 am] ⏳ Pending: 87
+[22/09/2026, 10:21:56 am] 
+🚀 Generating 10 new pages today...
+
+[22/09/2026, 10:21:56 am] ⏳ [1/10] best resume format 2026
+[22/09/2026, 10:21:58 am] ✅ Saved: best-resume-format-2026.md
+[22/09/2026, 10:22:01 am] ⏳ [2/10] best CV format 2026
+[22/09/2026, 10:22:02 am] ✅ Saved: best-cv-format-2026.md
+[22/09/2026, 10:22:05 am] ⏳ [3/10] modern resume template
+[22/09/2026, 10:22:07 am] ✅ Saved: modern-resume-template.md
+[22/09/2026, 10:22:10 am] ⏳ [4/10] professional CV template
+[22/09/2026, 10:22:11 am] ✅ Saved: professional-cv-template.md
+[22/09/2026, 10:22:14 am] ⏳ [5/10] creative resume template
+[22/09/2026, 10:22:16 am] ✅ Saved: creative-resume-template.md
+[22/09/2026, 10:22:19 am] ⏳ [6/10] simple resume format
+[22/09/2026, 10:22:21 am] ✅ Saved: simple-resume-format.md
+[22/09/2026, 10:22:24 am] ⏳ [7/10] minimalist CV template
+[22/09/2026, 10:22:26 am] ✅ Saved: minimalist-cv-template.md
+[22/09/2026, 10:22:29 am] ⏳ [8/10] one page resume format
+[22/09/2026, 10:22:30 am] ✅ Saved: one-page-resume-format.md
+[22/09/2026, 10:22:33 am] ⏳ [9/10] two page resume format
+[22/09/2026, 10:22:35 am] ✅ Saved: two-page-resume-format.md
+[22/09/2026, 10:22:38 am] ⏳ [10/10] ATS friendly resume format
+[22/09/2026, 10:22:40 am] ✅ Saved: ats-friendly-resume-format.md
+[22/09/2026, 10:22:43 am] 
+📊 Generation Summary:
+[22/09/2026, 10:22:43 am]    ✅ Success: 10
+[22/09/2026, 10:22:43 am]    ❌ Failed: 0
+[22/09/2026, 10:22:43 am] 
+🔨 Building site...
+[22/09/2026, 10:22:46 am] ✅ Build complete
+[22/09/2026, 10:22:46 am] 
+🚀 Deploying to Vercel...
+[22/09/2026, 10:23:17 am] ✅ Deploy complete
+[22/09/2026, 10:23:17 am] 🌐 Live: https://myseosite.vercel.app
+[22/09/2026, 10:23:17 am] 
+═══════════════════════════════════
+[22/09/2026, 10:23:17 am] 🎉 Agent Run Complete!
+[22/09/2026, 10:23:17 am] ═══════════════════════════════════
+
+[23/09/2026, 7:26:31 am] ═══════════════════════════════════
+[23/09/2026, 7:26:31 am] 🤖 Auto-Pilot Agent Started
+[23/09/2026, 7:26:31 am] ═══════════════════════════════════
+[23/09/2026, 7:26:31 am] 📋 Total keywords: 315
+[23/09/2026, 7:26:31 am] ✅ Already done: 238
+[23/09/2026, 7:26:31 am] ⏳ Pending: 77
+[23/09/2026, 7:26:31 am] 
+🚀 Generating 10 new pages today...
+
+[23/09/2026, 7:26:31 am] ⏳ [1/10] resume summary examples
+[23/09/2026, 7:26:35 am] ✅ Saved: resume-summary-examples.md
+[23/09/2026, 7:26:38 am] ⏳ [2/10] resume objective examples
+[23/09/2026, 7:26:40 am] ✅ Saved: resume-objective-examples.md
+[23/09/2026, 7:26:43 am] ⏳ [3/10] resume skills section examples
+[23/09/2026, 7:26:45 am] ✅ Saved: resume-skills-section-examples.md
+[23/09/2026, 7:26:48 am] ⏳ [4/10] resume work experience examples
+[23/09/2026, 7:26:49 am] ✅ Saved: resume-work-experience-examples.md
+[23/09/2026, 7:26:52 am] ⏳ [5/10] resume education section format
+[23/09/2026, 7:26:54 am] ✅ Saved: resume-education-section-format.md
+[23/09/2026, 7:26:57 am] ⏳ [6/10] resume projects section format
+[23/09/2026, 7:26:59 am] ✅ Saved: resume-projects-section-format.md
+[23/09/2026, 7:27:02 am] ⏳ [7/10] resume certifications section
+[23/09/2026, 7:27:04 am] ✅ Saved: resume-certifications-section.md
+[23/09/2026, 7:27:07 am] ⏳ [8/10] resume achievements section
+[23/09/2026, 7:27:09 am] ✅ Saved: resume-achievements-section.md
+[23/09/2026, 7:27:12 am] ⏳ [9/10] resume hobbies section format
+[23/09/2026, 7:27:13 am] ✅ Saved: resume-hobbies-section-format.md
+[23/09/2026, 7:27:16 am] ⏳ [10/10] resume references format
+[23/09/2026, 7:27:18 am] ✅ Saved: resume-references-format.md
+[23/09/2026, 7:27:21 am] 
+📊 Generation Summary:
+[23/09/2026, 7:27:21 am]    ✅ Success: 10
+[23/09/2026, 7:27:21 am]    ❌ Failed: 0
+[23/09/2026, 7:27:21 am] 
+🔨 Building site...
+[23/09/2026, 7:27:24 am] ✅ Build complete
+[23/09/2026, 7:27:24 am] 
+🚀 Deploying to Vercel...
+[23/09/2026, 7:27:41 am] ✅ Deploy complete
+[23/09/2026, 7:27:41 am] 🌐 Live: https://myseosite.vercel.app
+[23/09/2026, 7:27:41 am] 
+═══════════════════════════════════
+[23/09/2026, 7:27:41 am] 🎉 Agent Run Complete!
+[23/09/2026, 7:27:41 am] ═══════════════════════════════════
+
+[23/09/2026, 8:46:16 am] ═══════════════════════════════════
+[23/09/2026, 8:46:16 am] 🤖 Auto-Pilot Agent Started
+[23/09/2026, 8:46:16 am] ═══════════════════════════════════
+[23/09/2026, 8:46:16 am] 📋 Total keywords: 315
+[23/09/2026, 8:46:16 am] ✅ Already done: 248
+[23/09/2026, 8:46:16 am] ⏳ Pending: 67
+[23/09/2026, 8:46:16 am] 
+🚀 Generating 10 new pages today...
+
+[23/09/2026, 8:46:16 am] ⏳ [1/10] cover letter format Pakistan
+[23/09/2026, 8:46:48 am] ✅ Saved: cover-letter-format-pakistan.md
+[23/09/2026, 8:46:51 am] ⏳ [2/10] cover letter sample for fresh graduate
+[23/09/2026, 8:47:01 am] ✅ Saved: cover-letter-sample-for-fresh-graduate.md
+[23/09/2026, 8:47:04 am] ⏳ [3/10] cover letter for experienced professional
+[23/09/2026, 8:47:48 am] ✅ Saved: cover-letter-for-experienced-professional.md
+[23/09/2026, 8:47:51 am] ⏳ [4/10] cover letter for teacher job
+[23/09/2026, 8:48:54 am] ✅ Saved: cover-letter-for-teacher-job.md
+[23/09/2026, 8:48:57 am] ⏳ [5/10] cover letter for nurse job
+[23/09/2026, 8:48:59 am] ✅ Saved: cover-letter-for-nurse-job.md
+[23/09/2026, 8:49:02 am] ⏳ [6/10] cover letter for engineer job
+[23/09/2026, 8:49:03 am] ✅ Saved: cover-letter-for-engineer-job.md
+[23/09/2026, 8:49:06 am] ⏳ [7/10] cover letter for accountant job
+[23/09/2026, 8:49:15 am] ✅ Saved: cover-letter-for-accountant-job.md
+[23/09/2026, 8:49:18 am] ⏳ [8/10] cover letter for marketing job
+[23/09/2026, 8:49:23 am] ✅ Saved: cover-letter-for-marketing-job.md
+[23/09/2026, 8:49:26 am] ⏳ [9/10] cover letter for IT job
+[23/09/2026, 8:49:28 am] ✅ Saved: cover-letter-for-it-job.md
+[23/09/2026, 8:49:31 am] ⏳ [10/10] cover letter for bank job
+[23/09/2026, 8:49:32 am] ✅ Saved: cover-letter-for-bank-job.md
+[23/09/2026, 8:49:35 am] 
+📊 Generation Summary:
+[23/09/2026, 8:49:35 am]    ✅ Success: 10
+[23/09/2026, 8:49:35 am]    ❌ Failed: 0
+[23/09/2026, 8:49:35 am] 
+🔨 Building site...
+[23/09/2026, 8:49:38 am] ✅ Build complete
+[23/09/2026, 8:49:38 am] 
+🚀 Deploying to Vercel...
+[23/09/2026, 8:50:05 am] ✅ Deploy complete
+[23/09/2026, 8:50:05 am] 🌐 Live: https://myseosite.vercel.app
+[23/09/2026, 8:50:05 am] 
+═══════════════════════════════════
+[23/09/2026, 8:50:05 am] 🎉 Agent Run Complete!
+[23/09/2026, 8:50:05 am] ═══════════════════════════════════
+
+[24/09/2026, 2:28:52 am] ═══════════════════════════════════
+[24/09/2026, 2:28:52 am] 🤖 Auto-Pilot Agent Started
+[24/09/2026, 2:28:52 am] ═══════════════════════════════════
+[24/09/2026, 2:28:53 am] 📋 Total keywords: 315
+[24/09/2026, 2:28:53 am] ✅ Already done: 258
+[24/09/2026, 2:28:53 am] ⏳ Pending: 57
+[24/09/2026, 2:28:53 am] 
+🚀 Generating 10 new pages today...
+
+[24/09/2026, 2:28:53 am] ⏳ [1/10] job application letter format
+[24/09/2026, 2:29:06 am] ✅ Saved: job-application-letter-format.md
+[24/09/2026, 2:29:09 am] ⏳ [2/10] job application email format
+[24/09/2026, 2:29:22 am] ✅ Saved: job-application-email-format.md
+[24/09/2026, 2:29:25 am] ⏳ [3/10] job application tips Pakistan
+[24/09/2026, 2:29:27 am] ✅ Saved: job-application-tips-pakistan.md
+[24/09/2026, 2:29:30 am] ⏳ [4/10] interview preparation tips
+[24/09/2026, 2:29:31 am] ✅ Saved: interview-preparation-tips.md
+[24/09/2026, 2:29:34 am] ⏳ [5/10] common interview questions Pakistan
+[24/09/2026, 2:29:45 am] ✅ Saved: common-interview-questions-pakistan.md
+[24/09/2026, 2:29:48 am] ⏳ [6/10] interview questions for freshers
+[24/09/2026, 2:29:54 am] ✅ Saved: interview-questions-for-freshers.md
+[24/09/2026, 2:29:57 am] ⏳ [7/10] interview questions for experienced
+[24/09/2026, 2:30:26 am] ✅ Saved: interview-questions-for-experienced.md
+[24/09/2026, 2:30:29 am] ⏳ [8/10] interview dress code Pakistan
+[24/09/2026, 2:30:31 am] ✅ Saved: interview-dress-code-pakistan.md
+[24/09/2026, 2:30:34 am] ⏳ [9/10] interview follow up email
+[24/09/2026, 2:30:35 am] ✅ Saved: interview-follow-up-email.md
+[24/09/2026, 2:30:38 am] ⏳ [10/10] salary negotiation tips Pakistan
+[24/09/2026, 2:30:40 am] ✅ Saved: salary-negotiation-tips-pakistan.md
+[24/09/2026, 2:30:43 am] 
+📊 Generation Summary:
+[24/09/2026, 2:30:43 am]    ✅ Success: 10
+[24/09/2026, 2:30:43 am]    ❌ Failed: 0
+[24/09/2026, 2:30:43 am] 
+🔨 Building site...
+[24/09/2026, 2:30:45 am] ✅ Build complete
+[24/09/2026, 2:30:45 am] 
+🚀 Deploying to Vercel...
+[24/09/2026, 2:31:03 am] ❌ Deploy failed: Command failed: vercel --prod --yes
+[24/09/2026, 2:39:13 am] ═══════════════════════════════════
+[24/09/2026, 2:39:13 am] 🤖 Auto-Pilot Agent Started
+[24/09/2026, 2:39:13 am] ═══════════════════════════════════
+[24/09/2026, 2:39:13 am] 📋 Total keywords: 315
+[24/09/2026, 2:39:13 am] ✅ Already done: 268
+[24/09/2026, 2:39:13 am] ⏳ Pending: 47
+[24/09/2026, 2:39:13 am] 
+🚀 Generating 10 new pages today...
+
+[24/09/2026, 2:39:13 am] ⏳ [1/10] job search tips Pakistan
+[24/09/2026, 2:39:17 am] ✅ Saved: job-search-tips-pakistan.md
+[24/09/2026, 2:39:20 am] ⏳ [2/10] how to find jobs in Pakistan
+[24/09/2026, 2:40:24 am] ✅ Saved: how-to-find-jobs-in-pakistan.md
+[24/09/2026, 2:40:27 am] ⏳ [3/10] how to apply for jobs online
+[24/09/2026, 2:40:30 am] ✅ Saved: how-to-apply-for-jobs-online.md
+[24/09/2026, 2:40:33 am] ⏳ [4/10] how to make resume on mobile
+[24/09/2026, 2:40:37 am] ✅ Saved: how-to-make-resume-on-mobile.md
+[24/09/2026, 2:40:40 am] ⏳ [5/10] how to make resume on laptop
+[24/09/2026, 2:40:44 am] ✅ Saved: how-to-make-resume-on-laptop.md
+[24/09/2026, 2:40:47 am] ⏳ [6/10] free resume maker Pakistan
+[24/09/2026, 2:40:49 am] ✅ Saved: free-resume-maker-pakistan.md
+[24/09/2026, 2:40:52 am] ⏳ [7/10] best resume builder Pakistan
+[24/09/2026, 2:40:54 am] ✅ Saved: best-resume-builder-pakistan.md
+[24/09/2026, 2:40:57 am] ⏳ [8/10] online CV maker Pakistan
+[24/09/2026, 2:40:59 am] ✅ Saved: online-cv-maker-pakistan.md
+[24/09/2026, 2:41:02 am] ⏳ [9/10] resume checker tool
+[24/09/2026, 2:41:04 am] ✅ Saved: resume-checker-tool.md
+[24/09/2026, 2:41:07 am] ⏳ [10/10] resume review services Pakistan
+[24/09/2026, 2:41:12 am] ✅ Saved: resume-review-services-pakistan.md
+[24/09/2026, 2:41:15 am] 
+📊 Generation Summary:
+[24/09/2026, 2:41:15 am]    ✅ Success: 10
+[24/09/2026, 2:41:15 am]    ❌ Failed: 0
+[24/09/2026, 2:41:15 am] 
+🔨 Building site...
+[24/09/2026, 2:41:17 am] ✅ Build complete
+[24/09/2026, 2:41:17 am] 
+🚀 Deploying to Vercel...
+[24/09/2026, 2:41:47 am] ❌ Deploy failed: Command failed: vercel --prod --yes
+[24/09/2026, 7:23:27 am] ═══════════════════════════════════
+[24/09/2026, 7:23:27 am] 🤖 Auto-Pilot Agent Started
+[24/09/2026, 7:23:27 am] ═══════════════════════════════════
+[24/09/2026, 7:23:27 am] 📋 Total keywords: 315
+[24/09/2026, 7:23:27 am] ✅ Already done: 278
+[24/09/2026, 7:23:27 am] ⏳ Pending: 37
+[24/09/2026, 7:23:27 am] 
+🚀 Generating 10 new pages today...
+
+[24/09/2026, 7:23:27 am] ⏳ [1/10] LinkedIn profile tips Pakistan
+[24/09/2026, 7:23:30 am] ✅ Saved: linkedin-profile-tips-pakistan.md
+[24/09/2026, 7:23:33 am] ⏳ [2/10] LinkedIn resume tips
+[24/09/2026, 7:23:34 am] ✅ Saved: linkedin-resume-tips.md
+[24/09/2026, 7:23:37 am] ⏳ [3/10] portfolio website for job seekers
+[24/09/2026, 7:23:39 am] ✅ Saved: portfolio-website-for-job-seekers.md
+[24/09/2026, 7:23:42 am] ⏳ [4/10] personal branding for job seekers
+[24/09/2026, 7:23:43 am] ✅ Saved: personal-branding-for-job-seekers.md
+[24/09/2026, 7:23:46 am] ⏳ [5/10] networking tips for job seekers
+[24/09/2026, 7:23:47 am] ✅ Saved: networking-tips-for-job-seekers.md
+[24/09/2026, 7:23:50 am] ⏳ [6/10] career change tips Pakistan
+[24/09/2026, 7:23:52 am] ✅ Saved: career-change-tips-pakistan.md
+[24/09/2026, 7:23:55 am] ⏳ [7/10] career growth tips
+[24/09/2026, 7:23:56 am] ✅ Saved: career-growth-tips.md
+[24/09/2026, 7:23:59 am] ⏳ [8/10] job promotion tips
+[24/09/2026, 7:24:01 am] ✅ Saved: job-promotion-tips.md
+[24/09/2026, 7:24:04 am] ⏳ [9/10] work from home jobs Pakistan
+[24/09/2026, 7:24:06 am] ✅ Saved: work-from-home-jobs-pakistan.md
+[24/09/2026, 7:24:09 am] ⏳ [10/10] remote jobs Pakistan
+[24/09/2026, 7:24:11 am] ✅ Saved: remote-jobs-pakistan.md
+[24/09/2026, 7:24:14 am] 
+📊 Generation Summary:
+[24/09/2026, 7:24:14 am]    ✅ Success: 10
+[24/09/2026, 7:24:14 am]    ❌ Failed: 0
+[24/09/2026, 7:24:14 am] 
+🔨 Building site...
+[24/09/2026, 7:24:16 am] ✅ Build complete
+[24/09/2026, 7:24:16 am] 
+🚀 Deploying to Vercel...
+[24/09/2026, 7:24:37 am] ✅ Deploy complete
+[24/09/2026, 7:24:37 am] 🌐 Live: https://myseosite.vercel.app
+[24/09/2026, 7:24:37 am] 
+═══════════════════════════════════
+[24/09/2026, 7:24:37 am] 🎉 Agent Run Complete!
+[24/09/2026, 7:24:37 am] ═══════════════════════════════════
+
+[25/09/2026, 4:19:11 am] ═══════════════════════════════════
+[25/09/2026, 4:19:12 am] 🤖 Auto-Pilot Agent Started
+[25/09/2026, 4:19:12 am] ═══════════════════════════════════
+[25/09/2026, 4:19:12 am] 📋 Total keywords: 315
+[25/09/2026, 4:19:12 am] ✅ Already done: 288
+[25/09/2026, 4:19:12 am] ⏳ Pending: 27
+[25/09/2026, 4:19:12 am] 
+🚀 Generating 10 new pages today...
+
+[25/09/2026, 4:19:12 am] ⏳ [1/10] freelancing tips Pakistan
+[25/09/2026, 4:19:13 am] ✅ Saved: freelancing-tips-pakistan.md
+[25/09/2026, 4:19:16 am] ⏳ [2/10] freelancing resume format
+[25/09/2026, 4:19:18 am] ✅ Saved: freelancing-resume-format.md
+[25/09/2026, 4:19:21 am] ⏳ [3/10] Upwork profile tips
+[25/09/2026, 4:19:22 am] ✅ Saved: upwork-profile-tips.md
+[25/09/2026, 4:19:25 am] ⏳ [4/10] Fiverr profile tips
+[25/09/2026, 4:19:26 am] ✅ Saved: fiverr-profile-tips.md
+[25/09/2026, 4:19:29 am] ⏳ [5/10] government job application Pakistan
+[25/09/2026, 4:19:31 am] ✅ Saved: government-job-application-pakistan.md
+[25/09/2026, 4:19:34 am] ⏳ [6/10] private job application Pakistan
+[25/09/2026, 4:19:35 am] ✅ Saved: private-job-application-pakistan.md
+[25/09/2026, 4:19:38 am] ⏳ [7/10] NGO job application Pakistan
+[25/09/2026, 4:19:40 am] ✅ Saved: ngo-job-application-pakistan.md
+[25/09/2026, 4:19:43 am] ⏳ [8/10] teaching job application Pakistan
+[25/09/2026, 4:19:45 am] ✅ Saved: teaching-job-application-pakistan.md
+[25/09/2026, 4:19:48 am] ⏳ [9/10] bank job application Pakistan
+[25/09/2026, 4:19:49 am] ✅ Saved: bank-job-application-pakistan.md
+[25/09/2026, 4:19:52 am] ⏳ [10/10] army job application Pakistan
+[25/09/2026, 4:19:54 am] ✅ Saved: army-job-application-pakistan.md
+[25/09/2026, 4:19:57 am] 
+📊 Generation Summary:
+[25/09/2026, 4:19:57 am]    ✅ Success: 10
+[25/09/2026, 4:19:57 am]    ❌ Failed: 0
+[25/09/2026, 4:19:57 am] 
+🔨 Building site...
+[25/09/2026, 4:19:58 am] ✅ Build complete
+[25/09/2026, 4:19:58 am] 
+🚀 Deploying to Vercel...
+[25/09/2026, 4:21:00 am] ✅ Deploy complete
+[25/09/2026, 4:21:00 am] 🌐 Live: https://myseosite.vercel.app
+[25/09/2026, 4:21:00 am] 
+═══════════════════════════════════
+[25/09/2026, 4:21:00 am] 🎉 Agent Run Complete!
+[25/09/2026, 4:21:00 am] ═══════════════════════════════════
+
+[26/09/2026, 6:15:08 am] ═══════════════════════════════════
+[26/09/2026, 6:15:08 am] 🤖 Auto-Pilot Agent Started
+[26/09/2026, 6:15:08 am] ═══════════════════════════════════
+[26/09/2026, 6:15:08 am] 📋 Total keywords: 315
+[26/09/2026, 6:15:08 am] ✅ Already done: 298
+[26/09/2026, 6:15:08 am] ⏳ Pending: 17
+[26/09/2026, 6:15:08 am] 
+🚀 Generating 10 new pages today...
+
+[26/09/2026, 6:15:08 am] ⏳ [1/10] police job application Pakistan
+[26/09/2026, 6:15:10 am] ✅ Saved: police-job-application-pakistan.md
+[26/09/2026, 6:15:13 am] ⏳ [2/10] CSS exam preparation
+[26/09/2026, 6:15:15 am] ✅ Saved: css-exam-preparation.md
+[26/09/2026, 6:15:18 am] ⏳ [3/10] PMS exam preparation
+[26/09/2026, 6:15:19 am] ✅ Saved: pms-exam-preparation.md
+[26/09/2026, 6:15:22 am] ⏳ [4/10] FPSC job application
+[26/09/2026, 6:15:24 am] ✅ Saved: fpsc-job-application.md
+[26/09/2026, 6:15:27 am] ⏳ [5/10] PPSC job application
+[26/09/2026, 6:15:28 am] ✅ Saved: ppsc-job-application.md
+[26/09/2026, 6:15:31 am] ⏳ [6/10] NTS job application
+[26/09/2026, 6:15:35 am] ✅ Saved: nts-job-application.md
+[26/09/2026, 6:15:38 am] ⏳ [7/10] OTS job application
+[26/09/2026, 6:15:39 am] ✅ Saved: ots-job-application.md
+[26/09/2026, 6:15:42 am] ⏳ [8/10] how to write CV for CSS
+[26/09/2026, 6:15:45 am] ✅ Saved: how-to-write-cv-for-css.md
+[26/09/2026, 6:15:48 am] ⏳ [9/10] how to write CV for PMS
+[26/09/2026, 6:15:49 am] ✅ Saved: how-to-write-cv-for-pms.md
+[26/09/2026, 6:15:52 am] ⏳ [10/10] resume for MBA graduate
+[26/09/2026, 6:15:54 am] ✅ Saved: resume-for-mba-graduate.md
+[26/09/2026, 6:15:57 am] 
+📊 Generation Summary:
+[26/09/2026, 6:15:57 am]    ✅ Success: 10
+[26/09/2026, 6:15:57 am]    ❌ Failed: 0
+[26/09/2026, 6:15:57 am] 
+🔨 Building site...
+[26/09/2026, 6:15:58 am] ✅ Build complete
+[26/09/2026, 6:15:58 am] 
+🚀 Deploying to Vercel...
+[26/09/2026, 6:16:20 am] ✅ Deploy complete
+[26/09/2026, 6:16:20 am] 🌐 Live: https://myseosite.vercel.app
+[26/09/2026, 6:16:20 am] 
+═══════════════════════════════════
+[26/09/2026, 6:16:20 am] 🎉 Agent Run Complete!
+[26/09/2026, 6:16:20 am] ═══════════════════════════════════
+
+[27/09/2026, 1:30:50 am] ═══════════════════════════════════
+[27/09/2026, 1:30:50 am] 🤖 Auto-Pilot Agent Started
+[27/09/2026, 1:30:50 am] ═══════════════════════════════════
+[27/09/2026, 1:30:50 am] 📋 Total keywords: 315
+[27/09/2026, 1:30:50 am] ✅ Already done: 308
+[27/09/2026, 1:30:50 am] ⏳ Pending: 7
+[27/09/2026, 1:30:50 am] 
+🚀 Generating 7 new pages today...
+
+[27/09/2026, 1:30:50 am] ⏳ [1/7] resume for BBA graduate
+[27/09/2026, 1:30:53 am] ✅ Saved: resume-for-bba-graduate.md
+[27/09/2026, 1:30:56 am] ⏳ [2/7] resume for BS graduate
+[27/09/2026, 1:30:57 am] ✅ Saved: resume-for-bs-graduate.md
+[27/09/2026, 1:31:00 am] ⏳ [3/7] resume for MS graduate
+[27/09/2026, 1:31:02 am] ✅ Saved: resume-for-ms-graduate.md
+[27/09/2026, 1:31:05 am] ⏳ [4/7] resume for PhD
+[27/09/2026, 1:31:06 am] ✅ Saved: resume-for-phd.md
+[27/09/2026, 1:31:09 am] ⏳ [5/7] resume for diploma holder
+[27/09/2026, 1:31:11 am] ✅ Saved: resume-for-diploma-holder.md
+[27/09/2026, 1:31:14 am] ⏳ [6/7] resume for intermediate
+[27/09/2026, 1:31:15 am] ✅ Saved: resume-for-intermediate.md
+[27/09/2026, 1:31:18 am] ⏳ [7/7] resume for matric
+[27/09/2026, 1:31:20 am] ✅ Saved: resume-for-matric.md
+[27/09/2026, 1:31:23 am] 
+📊 Generation Summary:
+[27/09/2026, 1:31:23 am]    ✅ Success: 7
+[27/09/2026, 1:31:23 am]    ❌ Failed: 0
+[27/09/2026, 1:31:23 am] 
+🔨 Building site...
+[27/09/2026, 1:31:24 am] ✅ Build complete
+[27/09/2026, 1:31:24 am] 
+🚀 Deploying to Vercel...
+[27/09/2026, 1:31:47 am] ✅ Deploy complete
+[27/09/2026, 1:31:47 am] 🌐 Live: https://myseosite.vercel.app
+[27/09/2026, 1:31:47 am] 
+═══════════════════════════════════
+[27/09/2026, 1:31:47 am] 🎉 Agent Run Complete!
+[27/09/2026, 1:31:47 am] ═══════════════════════════════════
+
+[27/09/2026, 1:40:09 am] ═══════════════════════════════════
+[27/09/2026, 1:40:09 am] 🤖 Auto-Pilot Agent Started
+[27/09/2026, 1:40:09 am] ═══════════════════════════════════
+[27/09/2026, 1:40:09 am] 📋 Total keywords: 418
+[27/09/2026, 1:40:09 am] ✅ Already done: 315
+[27/09/2026, 1:40:09 am] ⏳ Pending: 103
+[27/09/2026, 1:40:09 am] 
+🚀 Generating 10 new pages today...
+
+[27/09/2026, 1:40:09 am] ⏳ [1/10] resume for software tester
+[27/09/2026, 1:40:11 am] ✅ Saved: resume-for-software-tester.md
+[27/09/2026, 1:40:14 am] ⏳ [2/10] resume for QA analyst
+[27/09/2026, 1:40:15 am] ✅ Saved: resume-for-qa-analyst.md
+[27/09/2026, 1:40:18 am] ⏳ [3/10] resume for scrum master
+[27/09/2026, 1:40:20 am] ✅ Saved: resume-for-scrum-master.md
+[27/09/2026, 1:40:23 am] ⏳ [4/10] resume for product owner
+[27/09/2026, 1:40:25 am] ✅ Saved: resume-for-product-owner.md
+[27/09/2026, 1:40:28 am] ⏳ [5/10] resume for agile coach
+[27/09/2026, 1:40:29 am] ✅ Saved: resume-for-agile-coach.md
+[27/09/2026, 1:40:32 am] ⏳ [6/10] resume for business analyst
+[27/09/2026, 1:40:34 am] ✅ Saved: resume-for-business-analyst.md
+[27/09/2026, 1:40:37 am] ⏳ [7/10] resume for data entry operator
+[27/09/2026, 1:40:38 am] ✅ Saved: resume-for-data-entry-operator.md
+[27/09/2026, 1:40:41 am] ⏳ [8/10] resume for computer operator
+[27/09/2026, 1:40:43 am] ✅ Saved: resume-for-computer-operator.md
+[27/09/2026, 1:40:46 am] ⏳ [9/10] resume for office assistant
+[27/09/2026, 1:40:48 am] ✅ Saved: resume-for-office-assistant.md
+[27/09/2026, 1:40:51 am] ⏳ [10/10] resume for clerk job
+[27/09/2026, 1:40:52 am] ✅ Saved: resume-for-clerk-job.md
+[27/09/2026, 1:40:55 am] 
+📊 Generation Summary:
+[27/09/2026, 1:40:55 am]    ✅ Success: 10
+[27/09/2026, 1:40:55 am]    ❌ Failed: 0
+[27/09/2026, 1:40:56 am] 
+🔨 Building site...
+[27/09/2026, 1:40:57 am] ✅ Build complete
+[27/09/2026, 1:40:57 am] 
+🚀 Deploying to Vercel...
+[27/09/2026, 1:41:23 am] ✅ Deploy complete
+[27/09/2026, 1:41:23 am] 🌐 Live: https://myseosite.vercel.app
+[27/09/2026, 1:41:23 am] 
+═══════════════════════════════════
+[27/09/2026, 1:41:23 am] 🎉 Agent Run Complete!
+[27/09/2026, 1:41:23 am] ═══════════════════════════════════
+
+[28/09/2026, 2:20:34 am] ═══════════════════════════════════
+[28/09/2026, 2:20:34 am] 🤖 Auto-Pilot Agent Started
+[28/09/2026, 2:20:34 am] ═══════════════════════════════════
+[28/09/2026, 2:20:34 am] 📋 Total keywords: 418
+[28/09/2026, 2:20:34 am] ✅ Already done: 325
+[28/09/2026, 2:20:34 am] ⏳ Pending: 93
+[28/09/2026, 2:20:34 am] 
+🚀 Generating 10 new pages today...
+
+[28/09/2026, 2:20:34 am] ⏳ [1/10] resume for receptionist job
+[28/09/2026, 2:20:37 am] ✅ Saved: resume-for-receptionist-job.md
+[28/09/2026, 2:20:40 am] ⏳ [2/10] resume for front desk officer
+[28/09/2026, 2:20:41 am] ✅ Saved: resume-for-front-desk-officer.md
+[28/09/2026, 2:20:44 am] ⏳ [3/10] resume for customer support
+[28/09/2026, 2:20:46 am] ✅ Saved: resume-for-customer-support.md
+[28/09/2026, 2:20:49 am] ⏳ [4/10] resume for telemarketing
+[28/09/2026, 2:20:51 am] ✅ Saved: resume-for-telemarketing.md
+[28/09/2026, 2:20:54 am] ⏳ [5/10] resume for call center agent
+[28/09/2026, 2:20:56 am] ✅ Saved: resume-for-call-center-agent.md
+[28/09/2026, 2:20:59 am] ⏳ [6/10] resume for sales person
+[28/09/2026, 2:21:00 am] ✅ Saved: resume-for-sales-person.md
+[28/09/2026, 2:21:03 am] ⏳ [7/10] resume for salesgirl
+[28/09/2026, 2:21:05 am] ✅ Saved: resume-for-salesgirl.md
+[28/09/2026, 2:21:08 am] ⏳ [8/10] resume for retail sales
+[28/09/2026, 2:21:12 am] ✅ Saved: resume-for-retail-sales.md
+[28/09/2026, 2:21:15 am] ⏳ [9/10] resume for store manager
+[28/09/2026, 2:21:17 am] ✅ Saved: resume-for-store-manager.md
+[28/09/2026, 2:21:20 am] ⏳ [10/10] resume for cashier job
+[28/09/2026, 2:21:22 am] ✅ Saved: resume-for-cashier-job.md
+[28/09/2026, 2:21:25 am] 
+📊 Generation Summary:
+[28/09/2026, 2:21:25 am]    ✅ Success: 10
+[28/09/2026, 2:21:26 am]    ❌ Failed: 0
+[28/09/2026, 2:21:26 am] 
+🔨 Building site...
+[28/09/2026, 2:21:27 am] ✅ Build complete
+[28/09/2026, 2:21:27 am] 
+🚀 Deploying to Vercel...
+[28/09/2026, 2:21:43 am] ✅ Deploy complete
+[28/09/2026, 2:21:43 am] 🌐 Live: https://myseosite.vercel.app
+[28/09/2026, 2:21:43 am] 
+═══════════════════════════════════
+[28/09/2026, 2:21:43 am] 🎉 Agent Run Complete!
+[28/09/2026, 2:21:43 am] ═══════════════════════════════════
+
+[29/09/2026, 10:24:58 am] ═══════════════════════════════════
+[29/09/2026, 10:24:58 am] 🤖 Auto-Pilot Agent Started
+[29/09/2026, 10:24:58 am] ═══════════════════════════════════
+[29/09/2026, 10:24:58 am] 📋 Total keywords: 418
+[29/09/2026, 10:24:58 am] ✅ Already done: 335
+[29/09/2026, 10:24:58 am] ⏳ Pending: 83
+[29/09/2026, 10:24:58 am] 
+🚀 Generating 10 new pages today...
+
+[29/09/2026, 10:24:58 am] ⏳ [1/10] resume for security guard
+[29/09/2026, 10:25:01 am] ✅ Saved: resume-for-security-guard.md
+[29/09/2026, 10:25:04 am] ⏳ [2/10] resume for driver job
+[29/09/2026, 10:25:05 am] ✅ Saved: resume-for-driver-job.md
+[29/09/2026, 10:25:08 am] ⏳ [3/10] resume for delivery rider
+[29/09/2026, 10:25:11 am] ✅ Saved: resume-for-delivery-rider.md
+[29/09/2026, 10:25:14 am] ⏳ [4/10] resume for food delivery
+[29/09/2026, 10:25:15 am] ✅ Saved: resume-for-food-delivery.md
+[29/09/2026, 10:25:18 am] ⏳ [5/10] resume for rider job Pakistan
+[29/09/2026, 10:25:20 am] ✅ Saved: resume-for-rider-job-pakistan.md
+[29/09/2026, 10:25:23 am] ⏳ [6/10] resume for warden job
+[29/09/2026, 10:25:25 am] ✅ Saved: resume-for-warden-job.md
+[29/09/2026, 10:25:28 am] ⏳ [7/10] resume for army officer
+[29/09/2026, 10:25:29 am] ✅ Saved: resume-for-army-officer.md
+[29/09/2026, 10:25:32 am] ⏳ [8/10] resume for navy officer
+[29/09/2026, 10:25:34 am] ✅ Saved: resume-for-navy-officer.md
+[29/09/2026, 10:25:37 am] ⏳ [9/10] resume for air force
+[29/09/2026, 10:25:39 am] ✅ Saved: resume-for-air-force.md
+[29/09/2026, 10:25:42 am] ⏳ [10/10] resume for police officer
+[29/09/2026, 10:25:44 am] ✅ Saved: resume-for-police-officer.md
+[29/09/2026, 10:25:47 am] 
+📊 Generation Summary:
+[29/09/2026, 10:25:47 am]    ✅ Success: 10
+[29/09/2026, 10:25:47 am]    ❌ Failed: 0
+[29/09/2026, 10:25:47 am] 
+🔨 Building site...
+[29/09/2026, 10:25:50 am] ✅ Build complete
+[29/09/2026, 10:25:50 am] 
+🚀 Deploying to Vercel...
+[29/09/2026, 10:26:17 am] ✅ Deploy complete
+[29/09/2026, 10:26:17 am] 🌐 Live: https://myseosite.vercel.app
+[29/09/2026, 10:26:17 am] 
+═══════════════════════════════════
+[29/09/2026, 10:26:17 am] 🎉 Agent Run Complete!
+[29/09/2026, 10:26:17 am] ═══════════════════════════════════
+
+[29/09/2026, 10:27:39 am] ═══════════════════════════════════
+[29/09/2026, 10:27:39 am] 🤖 Auto-Pilot Agent Started
+[29/09/2026, 10:27:39 am] ═══════════════════════════════════
+[29/09/2026, 10:27:39 am] 📋 Total keywords: 418
+[29/09/2026, 10:27:39 am] ✅ Already done: 345
+[29/09/2026, 10:27:39 am] ⏳ Pending: 73
+[29/09/2026, 10:27:39 am] 
+🚀 Generating 10 new pages today...
+
+[29/09/2026, 10:27:39 am] ⏳ [1/10] resume for traffic police
+[29/09/2026, 10:27:41 am] ✅ Saved: resume-for-traffic-police.md
+[29/09/2026, 10:27:44 am] ⏳ [2/10] resume for constable job
+[29/09/2026, 10:27:47 am] ✅ Saved: resume-for-constable-job.md
+[29/09/2026, 10:27:50 am] ⏳ [3/10] resume for ASI job
+[29/09/2026, 10:27:51 am] ✅ Saved: resume-for-asi-job.md
+[29/09/2026, 10:27:54 am] ⏳ [4/10] resume for SI job
+[29/09/2026, 10:27:56 am] ✅ Saved: resume-for-si-job.md
+[29/09/2026, 10:27:59 am] ⏳ [5/10] resume for army soldier
+[29/09/2026, 10:28:01 am] ✅ Saved: resume-for-army-soldier.md
+[29/09/2026, 10:28:04 am] ⏳ [6/10] resume for ranger job
+[29/09/2026, 10:28:06 am] ✅ Saved: resume-for-ranger-job.md
+[29/09/2026, 10:28:09 am] ⏳ [7/10] resume for FIA job
+[29/09/2026, 10:28:10 am] ✅ Saved: resume-for-fia-job.md
+[29/09/2026, 10:28:13 am] ⏳ [8/10] resume for NAB job
+[29/09/2026, 10:28:15 am] ✅ Saved: resume-for-nab-job.md
+[29/09/2026, 10:28:18 am] ⏳ [9/10] resume for custom officer
+[29/09/2026, 10:28:20 am] ✅ Saved: resume-for-custom-officer.md
+[29/09/2026, 10:28:23 am] ⏳ [10/10] resume for excise officer
+[29/09/2026, 10:28:25 am] ✅ Saved: resume-for-excise-officer.md
+[29/09/2026, 10:28:28 am] 
+📊 Generation Summary:
+[29/09/2026, 10:28:28 am]    ✅ Success: 10
+[29/09/2026, 10:28:28 am]    ❌ Failed: 0
+[29/09/2026, 10:28:28 am] 
+🔨 Building site...
+[29/09/2026, 10:28:29 am] ✅ Build complete
+[29/09/2026, 10:28:29 am] 
+🚀 Deploying to Vercel...
+[29/09/2026, 10:28:52 am] ✅ Deploy complete
+[29/09/2026, 10:28:52 am] 🌐 Live: https://myseosite.vercel.app
+[29/09/2026, 10:28:52 am] 
+═══════════════════════════════════
+[29/09/2026, 10:28:52 am] 🎉 Agent Run Complete!
+[29/09/2026, 10:28:52 am] ═══════════════════════════════════
+
+[30/09/2026, 10:27:43 am] ═══════════════════════════════════
+[30/09/2026, 10:27:43 am] 🤖 Auto-Pilot Agent Started
+[30/09/2026, 10:27:43 am] ═══════════════════════════════════
+[30/09/2026, 10:27:43 am] 📋 Total keywords: 418
+[30/09/2026, 10:27:43 am] ✅ Already done: 355
+[30/09/2026, 10:27:43 am] ⏳ Pending: 63
+[30/09/2026, 10:27:43 am] 
+🚀 Generating 10 new pages today...
+
+[30/09/2026, 10:27:43 am] ⏳ [1/10] resume for income tax officer
+[30/09/2026, 10:27:45 am] ✅ Saved: resume-for-income-tax-officer.md
+[30/09/2026, 10:27:48 am] ⏳ [2/10] resume for zakat officer
+[30/09/2026, 10:27:50 am] ✅ Saved: resume-for-zakat-officer.md
+[30/09/2026, 10:27:53 am] ⏳ [3/10] resume for patwari job
+[30/09/2026, 10:27:55 am] ✅ Saved: resume-for-patwari-job.md
+[30/09/2026, 10:27:58 am] ⏳ [4/10] resume for tehsildar job
+[30/09/2026, 10:28:00 am] ✅ Saved: resume-for-tehsildar-job.md
+[30/09/2026, 10:28:03 am] ⏳ [5/10] resume for naib tehsildar
+[30/09/2026, 10:28:04 am] ✅ Saved: resume-for-naib-tehsildar.md
+[30/09/2026, 10:28:07 am] ⏳ [6/10] resume for assistant commissioner
+[30/09/2026, 10:28:09 am] ✅ Saved: resume-for-assistant-commissioner.md
+[30/09/2026, 10:28:12 am] ⏳ [7/10] resume for deputy commissioner
+[30/09/2026, 10:28:13 am] ✅ Saved: resume-for-deputy-commissioner.md
+[30/09/2026, 10:28:16 am] ⏳ [8/10] resume for section officer
+[30/09/2026, 10:28:17 am] ✅ Saved: resume-for-section-officer.md
+[30/09/2026, 10:28:20 am] ⏳ [9/10] resume for assistant director
+[30/09/2026, 10:28:22 am] ✅ Saved: resume-for-assistant-director.md
+[30/09/2026, 10:28:25 am] ⏳ [10/10] resume for deputy director
+[30/09/2026, 10:28:27 am] ✅ Saved: resume-for-deputy-director.md
+[30/09/2026, 10:28:30 am] 
+📊 Generation Summary:
+[30/09/2026, 10:28:30 am]    ✅ Success: 10
+[30/09/2026, 10:28:30 am]    ❌ Failed: 0
+[30/09/2026, 10:28:30 am] 
+🔨 Building site...
+[30/09/2026, 10:28:31 am] ✅ Build complete
+[30/09/2026, 10:28:31 am] 
+🚀 Deploying to Vercel...
+[30/09/2026, 10:28:56 am] ✅ Deploy complete
+[30/09/2026, 10:28:56 am] 🌐 Live: https://myseosite.vercel.app
+[30/09/2026, 10:28:56 am] 
+═══════════════════════════════════
+[30/09/2026, 10:28:56 am] 🎉 Agent Run Complete!
+[30/09/2026, 10:28:56 am] ═══════════════════════════════════
+
+[01/10/2026, 9:33:28 am] ═══════════════════════════════════
+[01/10/2026, 9:33:29 am] 🤖 Auto-Pilot Agent Started
+[01/10/2026, 9:33:29 am] ═══════════════════════════════════
+[01/10/2026, 9:33:29 am] 📋 Total keywords: 418
+[01/10/2026, 9:33:29 am] ✅ Already done: 365
+[01/10/2026, 9:33:29 am] ⏳ Pending: 53
+[01/10/2026, 9:33:29 am] 
+🚀 Generating 10 new pages today...
+
+[01/10/2026, 9:33:29 am] ⏳ [1/10] resume for joint director
+[01/10/2026, 9:34:02 am] ❌ Failed: resume for joint director — Request timed out.
+[01/10/2026, 9:34:12 am] ⏳ [2/10] resume for director job
+[01/10/2026, 9:34:18 am] ✅ Saved: resume-for-director-job.md
+[01/10/2026, 9:34:21 am] ⏳ [3/10] resume for managing director
+[01/10/2026, 9:34:33 am] ✅ Saved: resume-for-managing-director.md
+[01/10/2026, 9:34:36 am] ⏳ [4/10] resume for general manager
+[01/10/2026, 9:34:38 am] ✅ Saved: resume-for-general-manager.md
+[01/10/2026, 9:34:41 am] ⏳ [5/10] resume for assistant manager
+[01/10/2026, 9:34:43 am] ✅ Saved: resume-for-assistant-manager.md
+[01/10/2026, 9:34:46 am] ⏳ [6/10] resume for deputy manager
+[01/10/2026, 9:34:49 am] ✅ Saved: resume-for-deputy-manager.md
+[01/10/2026, 9:34:52 am] ⏳ [7/10] resume for branch manager
+[01/10/2026, 9:34:54 am] ✅ Saved: resume-for-branch-manager.md
+[01/10/2026, 9:34:57 am] ⏳ [8/10] resume for regional manager
+[01/10/2026, 9:34:58 am] ✅ Saved: resume-for-regional-manager.md
+[01/10/2026, 9:35:01 am] ⏳ [9/10] resume for area manager
+[01/10/2026, 9:35:03 am] ✅ Saved: resume-for-area-manager.md
+[01/10/2026, 9:35:06 am] ⏳ [10/10] resume for sales manager
+[01/10/2026, 9:35:08 am] ✅ Saved: resume-for-sales-manager.md
+[01/10/2026, 9:35:11 am] 
+📊 Generation Summary:
+[01/10/2026, 9:35:11 am]    ✅ Success: 9
+[01/10/2026, 9:35:11 am]    ❌ Failed: 1
+[01/10/2026, 9:35:11 am] 
+🔨 Building site...
+[01/10/2026, 9:35:14 am] ✅ Build complete
+[01/10/2026, 9:35:14 am] 
+🚀 Deploying to Vercel...
+[01/10/2026, 9:35:39 am] ✅ Deploy complete
+[01/10/2026, 9:35:39 am] 🌐 Live: https://myseosite.vercel.app
+[01/10/2026, 9:35:39 am] 
+═══════════════════════════════════
+[01/10/2026, 9:35:39 am] 🎉 Agent Run Complete!
+[01/10/2026, 9:35:39 am] ═══════════════════════════════════
+
