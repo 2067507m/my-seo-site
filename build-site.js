@@ -22,14 +22,11 @@ function template(title, content) {
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7986945248563713"
      crossorigin="anonymous"></script>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8T49T54167"></script>
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8T49TS4167"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-8T49TS4167');
 </script>
 <link rel="stylesheet" href="/style.css">
@@ -46,29 +43,40 @@ const pages = [];
 
 files.forEach(file => {
   const raw = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf-8');
-  const match = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  
+  // Strip YAML frontmatter
   let title = file.replace('.md', '');
   let content = raw;
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (match) {
     const fm = match[1];
     content = match[2];
     const tm = fm.match(/title:\s*"([^"]+)"/);
     if (tm) title = tm[1];
   }
+  
   const html = marked.parse(content);
   const slug = file.replace('.md', '');
+  
+  // Write with .html extension (backup)
   fs.writeFileSync(path.join(PUBLIC_DIR, `${slug}.html`), template(title, html));
+  
+  // ALSO write without extension (for clean URLs)
+  const slugDir = path.join(PUBLIC_DIR, slug);
+  if (!fs.existsSync(slugDir)) fs.mkdirSync(slugDir, { recursive: true });
+  fs.writeFileSync(path.join(slugDir, 'index.html'), template(title, html));
+  
   pages.push({ slug, title });
 });
 
 const indexHtml = `<h1>AI Resume Resources</h1>
 <p>Browse all our resume guides and samples:</p>
-<ul>${pages.map(p => `<li><a href="/${p.slug}.html">${p.title}</a></li>`).join('')}</ul>`;
+<ul>${pages.map(p => `<li><a href="/${p.slug}">${p.title}</a></li>`).join('')}</ul>`;
 fs.writeFileSync(path.join(PUBLIC_DIR, 'index.html'), template('AI Resume Resources', indexHtml));
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${pages.map(p => `<url><loc>https://myseosite.vercel.app/${p.slug}.html</loc></url>`).join('')}
+${pages.map(p => `<url><loc>https://myseosite.vercel.app/${p.slug}</loc></url>`).join('')}
 </urlset>`;
 fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), sitemap);
 
